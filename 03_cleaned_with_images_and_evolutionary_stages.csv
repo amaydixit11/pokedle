@@ -1,0 +1,1011 @@
+No,Original_Name,Generation,Height,Weight,Type1,Type2,Ability1,Ability2,Ability_Hidden,Color,Egg_Group1,Egg_Group2,Category,is_mega,image_url,evolutionary_stage
+1,Bulbasaur,1,0.7,6.9,Grass,Poison,Overgrow,,Chlorophyll,Green,Monster,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png,1
+2,Ivysaur,1,1,13,Grass,Poison,Overgrow,,Chlorophyll,Green,Monster,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png,2
+3,Venusaur,1,2,100,Grass,Poison,Overgrow,,Chlorophyll,Green,Monster,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png,3
+4,Charmander,1,0.6,8.5,Fire,,Blaze,,Solar Power,Red,Monster,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png,1
+5,Charmeleon,1,1.1,19,Fire,,Blaze,,Solar Power,Red,Monster,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png,2
+6,Charizard,1,1.7,90.5,Fire,Flying,Blaze,,Solar Power,Red,Monster,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png,3
+7,Squirtle,1,0.5,9,Water,,Torrent,,Rain Dish,Blue,Monster,Water1,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png,1
+8,Wartortle,1,1,22.5,Water,,Torrent,,Rain Dish,Blue,Monster,Water1,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png,2
+9,Blastoise,1,1.6,85.5,Water,,Torrent,,Rain Dish,Blue,Monster,Water1,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png,3
+10,Caterpie,1,0.3,2.9,Bug,,Shield Dust,,Run Away,Green,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png,1
+11,Metapod,1,0.7,9.9,Bug,,Shed Skin,,,Green,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png,2
+12,Butterfree,1,1.1,32,Bug,Flying,Compound Eyes,,Tinted Lens,White,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png,3
+13,Weedle,1,0.3,3.2,Bug,Poison,Shield Dust,,Run Away,Brown,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png,1
+14,Kakuna,1,0.6,10,Bug,Poison,Shed Skin,,,Yellow,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png,2
+15,Beedrill,1,1,29.5,Bug,Poison,Swarm,,Sniper,Yellow,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png,3
+16,Pidgey,1,0.3,1.8,Normal,Flying,Keen Eye,Tangled Feet,Big Pecks,Brown,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png,1
+17,Pidgeotto,1,1.1,30,Normal,Flying,Keen Eye,Tangled Feet,Big Pecks,Brown,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png,2
+18,Pidgeot,1,1.5,39.5,Normal,Flying,Keen Eye,Tangled Feet,Big Pecks,Brown,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png,3
+19,Rattata,1,0.3,3.5,Normal,,Run Away,Guts,Hustle,Purple,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png,1
+20,Raticate,1,0.7,18.5,Normal,,Run Away,Guts,Hustle,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png,2
+21,Spearow,1,0.3,2,Normal,Flying,Keen Eye,,Sniper,Brown,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/21.png,1
+22,Fearow,1,1.2,38,Normal,Flying,Keen Eye,,Sniper,Brown,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png,2
+23,Ekans,1,2,6.9,Poison,,Intimidate,Shed Skin,Unnerve,Purple,Ground,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png,1
+24,Arbok,1,3.5,65,Poison,,Intimidate,Shed Skin,Unnerve,Purple,Ground,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png,2
+25,Pikachu,1,0.4,6,Electric,,Static,,Lightning Rod,Yellow,Ground,Fairy,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png,2
+26,Raichu,1,0.8,30,Electric,,Static,,Lightning Rod,Yellow,Ground,Fairy,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png,3
+27,Sandshrew,1,0.6,12,Ground,,Sand Veil,,Sand Rush,Yellow,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png,1
+28,Sandslash,1,1,29.5,Ground,,Sand Veil,,Sand Rush,Yellow,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/28.png,2
+29,Nidoran F,1,0.4,7,Poison,,Poison Point,Rivalry,Hustle,Blue,Monster,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png,1
+30,Nidorina,1,0.8,20,Poison,,Poison Point,Rivalry,Hustle,Blue,Undiscovered,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/30.png,2
+31,Nidoqueen,1,1.3,60,Poison,Ground,Poison Point,Rivalry,Sheer Force,Blue,Undiscovered,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png,3
+32,Nidoran M,1,0.5,9,Poison,,Poison Point,Rivalry,Hustle,Purple,Monster,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/32.png,1
+33,Nidorino,1,0.9,19.5,Poison,,Poison Point,Rivalry,Hustle,Purple,Monster,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png,2
+34,Nidoking,1,1.4,62,Poison,Ground,Poison Point,Rivalry,Sheer Force,Purple,Monster,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png,3
+35,Clefairy,1,0.6,7.5,Fairy,,Cute Charm,Magic Guard,Friend Guard,Pink,Fairy,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png,2
+36,Clefable,1,1.3,40,Fairy,,Cute Charm,Magic Guard,Unaware,Pink,Fairy,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png,3
+37,Vulpix,1,0.6,9.9,Fire,,Flash Fire,,Drought,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png,1
+38,Ninetales,1,1.1,19.9,Fire,,Flash Fire,,Drought,Yellow,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png,2
+39,Jigglypuff,1,0.5,5.5,Normal,Fairy,Cute Charm,Competitive,Friend Guard,Pink,Fairy,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png,2
+40,Wigglytuff,1,1,12,Normal,Fairy,Cute Charm,Competitive,Frisk,Pink,Fairy,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png,3
+41,Zubat,1,0.8,7.5,Poison,Flying,Inner Focus,,Infiltrator,Purple,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png,1
+42,Golbat,1,1.6,55,Poison,Flying,Inner Focus,,Infiltrator,Purple,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png,2
+43,Oddish,1,0.5,5.4,Grass,Poison,Chlorophyll,,Run Away,Blue,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png,1
+44,Gloom,1,0.8,8.6,Grass,Poison,Chlorophyll,,Stench,Blue,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png,2
+45,Vileplume,1,1.2,18.6,Grass,Poison,Chlorophyll,,Effect Spore,Red,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png,3
+46,Paras,1,0.3,5.4,Bug,Grass,Effect Spore,Dry Skin,Damp,Red,Bug,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png,1
+47,Parasect,1,1,29.5,Bug,Grass,Effect Spore,Dry Skin,Damp,Red,Bug,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png,2
+48,Venonat,1,1,30,Bug,Poison,Compound Eyes,Tinted Lens,Run Away,Purple,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png,1
+49,Venomoth,1,1.5,12.5,Bug,Poison,Shield Dust,Tinted Lens,Wonder Skin,Purple,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png,2
+50,Diglett,1,0.2,0.8,Ground,,Sand Veil,Arena Trap,Sand Force,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png,1
+51,Dugtrio,1,0.7,33.3,Ground,,Sand Veil,Arena Trap,Sand Force,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png,2
+52,Meowth,1,0.4,4.2,Normal,,Pickup,Technician,Unnerve,Yellow,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png,1
+53,Persian,1,1,32,Normal,,Limber,Technician,Unnerve,Yellow,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png,2
+54,Psyduck,1,0.8,19.6,Water,,Damp,Cloud Nine,Swift Swim,Yellow,Water1,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png,1
+55,Golduck,1,1.7,76.6,Water,,Damp,Cloud Nine,Swift Swim,Blue,Water1,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png,2
+56,Mankey,1,0.5,28,Fighting,,Vital Spirit,Anger Point,Defiant,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png,1
+57,Primeape,1,1,32,Fighting,,Vital Spirit,Anger Point,Defiant,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png,2
+58,Growlithe,1,0.7,19,Fire,,Intimidate,Flash Fire,Justified,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/58.png,1
+59,Arcanine,1,1.9,155,Fire,,Intimidate,Flash Fire,Justified,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png,2
+60,Poliwag,1,0.6,12.4,Water,,Water Absorb,Damp,Swift Swim,Blue,Water1,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png,1
+61,Poliwhirl,1,1,20,Water,,Water Absorb,Damp,Swift Swim,Blue,Water1,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/61.png,2
+62,Poliwrath,1,1.3,54,Water,Fighting,Water Absorb,Damp,Swift Swim,Blue,Water1,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png,3
+63,Abra,1,0.9,19.5,Psychic,,Synchronize,Inner Focus,Magic Guard,Brown,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png,1
+64,Kadabra,1,1.3,56.5,Psychic,,Synchronize,Inner Focus,Magic Guard,Brown,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png,2
+65,Alakazam,1,1.5,48,Psychic,,Synchronize,Inner Focus,Magic Guard,Brown,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png,3
+66,Machop,1,0.8,19.5,Fighting,,Guts,No Guard,Steadfast,Gray,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png,1
+67,Machoke,1,1.5,70.5,Fighting,,Guts,No Guard,Steadfast,Gray,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png,2
+68,Machamp,1,1.6,130,Fighting,,Guts,No Guard,Steadfast,Gray,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png,3
+69,Bellsprout,1,0.7,4,Grass,Poison,Chlorophyll,,Gluttony,Green,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png,1
+70,Weepinbell,1,1,6.4,Grass,Poison,Chlorophyll,,Gluttony,Green,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png,2
+71,Victreebel,1,1.7,15.5,Grass,Poison,Chlorophyll,,Gluttony,Green,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png,3
+72,Tentacool,1,0.9,45.5,Water,Poison,Clear Body,Liquid Ooze,Rain Dish,Blue,Water3,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/72.png,1
+73,Tentacruel,1,1.6,55,Water,Poison,Clear Body,Liquid Ooze,Rain Dish,Blue,Water3,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/73.png,2
+74,Geodude,1,0.4,20,Rock,Ground,Rock Head,Sturdy,Sand Veil,Brown,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png,1
+75,Graveler,1,1,105,Rock,Ground,Rock Head,Sturdy,Sand Veil,Brown,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png,2
+76,Golem,1,1.4,300,Rock,Ground,Rock Head,Sturdy,Sand Veil,Brown,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png,3
+77,Ponyta,1,1,30,Fire,,Run Away,Flash Fire,Flame Body,Yellow,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png,1
+78,Rapidash,1,1.7,95,Fire,,Run Away,Flash Fire,Flame Body,Yellow,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png,2
+79,Slowpoke,1,1.2,36,Water,Psychic,Oblivious,Own Tempo,Regenerator,Pink,Monster,Water1,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png,1
+80,Slowbro,1,1.6,78.5,Water,Psychic,Oblivious,Own Tempo,Regenerator,Pink,Monster,Water1,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png,2
+81,Magnemite,1,0.3,6,Electric,Steel,Magnet Pull,Sturdy,Analytic,Gray,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png,1
+82,Magneton,1,1,60,Electric,Steel,Magnet Pull,Sturdy,Analytic,Gray,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png,2
+83,Farfetch'd,1,0.8,15,Normal,Flying,Keen Eye,Inner Focus,Defiant,Brown,Flying,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png,1
+84,Doduo,1,1.4,39.2,Normal,Flying,Run Away,Early Bird,Tangled Feet,Brown,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png,1
+85,Dodrio,1,1.8,85.2,Normal,Flying,Run Away,Early Bird,Tangled Feet,Brown,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png,2
+86,Seel,1,1.1,90,Water,,Thick Fat,Hydration,Ice Body,White,Water1,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png,1
+87,Dewgong,1,1.7,120,Water,Ice,Thick Fat,Hydration,Ice Body,White,Water1,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png,2
+88,Grimer,1,0.9,30,Poison,,Stench,Sticky Hold,Poison Touch,Purple,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/88.png,1
+89,Muk,1,1.2,30,Poison,,Stench,Sticky Hold,Poison Touch,Purple,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png,2
+90,Shellder,1,0.3,4,Water,,Shell Armor,Skill Link,Overcoat,Purple,Water3,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png,1
+91,Cloyster,1,1.5,132.5,Water,Ice,Shell Armor,Skill Link,Overcoat,Purple,Water3,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png,2
+92,Gastly,1,1.3,0.1,Ghost,Poison,Levitate,,,Purple,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png,1
+93,Haunter,1,1.6,0.1,Ghost,Poison,Levitate,,,Purple,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png,2
+94,Gengar,1,1.5,40.5,Ghost,Poison,Cursed Body,,,Purple,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png,3
+95,Onix,1,8.8,210,Rock,Ground,Rock Head,Sturdy,Weak Armor,Gray,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png,1
+96,Drowzee,1,1,32.4,Psychic,,Insomnia,Forewarn,Inner Focus,Yellow,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png,1
+97,Hypno,1,1.6,75.6,Psychic,,Insomnia,Forewarn,Inner Focus,Yellow,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png,2
+98,Krabby,1,0.4,6.5,Water,,Hyper Cutter,Shell Armor,Sheer Force,Red,Water3,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png,1
+99,Kingler,1,1.3,60,Water,,Hyper Cutter,Shell Armor,Sheer Force,Red,Water3,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png,2
+100,Voltorb,1,0.5,10.4,Electric,,Soundproof,Static,Aftermath,Red,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png,1
+101,Electrode,1,1.2,66.6,Electric,,Soundproof,Static,Aftermath,Red,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png,2
+102,Exeggcute,1,0.4,2.5,Grass,Psychic,Chlorophyll,,Harvest,Pink,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/102.png,1
+103,Exeggutor,1,2,120,Grass,Psychic,Chlorophyll,,Harvest,Yellow,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png,2
+104,Cubone,1,0.4,6.5,Ground,,Rock Head,Lightning Rod,Battle Armor,Brown,Monster,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png,1
+105,Marowak,1,1,45,Ground,,Rock Head,Lightning Rod,Battle Armor,Brown,Monster,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png,2
+106,Hitmonlee,1,1.5,49.8,Fighting,,Limber,Reckless,Unburden,Brown,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png,2
+107,Hitmonchan,1,1.4,50.2,Fighting,,Keen Eye,Iron Fist,Inner Focus,Brown,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png,2
+108,Lickitung,1,1.2,65.5,Normal,,Own Tempo,Oblivious,Cloud Nine,Pink,Monster,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/108.png,1
+109,Koffing,1,0.6,1,Poison,,Levitate,Neutralizing Gas,Stench,Purple,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png,1
+110,Weezing,1,1.2,9.5,Poison,,Levitate,Neutralizing Gas,Stench,Purple,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png,2
+111,Rhyhorn,1,1,115,Ground,Rock,Lightning Rod,Rock Head,Reckless,Gray,Monster,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png,1
+112,Rhydon,1,1.9,120,Ground,Rock,Lightning Rod,Rock Head,Reckless,Gray,Monster,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png,2
+113,Chansey,1,1.1,34.6,Normal,,Natural Cure,Serene Grace,Healer,Pink,Fairy,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png,2
+114,Tangela,1,1,35,Grass,,Chlorophyll,Leaf Guard,Regenerator,Blue,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png,1
+115,Kangaskhan,1,2.2,80,Normal,,Early Bird,Scrappy,Inner Focus,Brown,Monster,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png,1
+116,Horsea,1,0.4,8,Water,,Swift Swim,Sniper,Damp,Blue,Water1,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png,1
+117,Seadra,1,1.2,25,Water,,Poison Point,Sniper,Damp,Blue,Water1,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png,2
+118,Goldeen,1,0.6,15,Water,,Swift Swim,Water Veil,Lightning Rod,Red,Water2,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png,1
+119,Seaking,1,1.3,39,Water,,Swift Swim,Water Veil,Lightning Rod,Red,Water2,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/119.png,2
+120,Staryu,1,0.8,34.5,Water,,Illuminate,Natural Cure,Analytic,Brown,Water3,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png,1
+121,Starmie,1,1.1,80,Water,Psychic,Illuminate,Natural Cure,Analytic,Purple,Water3,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png,2
+122,Mr. Mime,1,1.3,54.5,Psychic,Fairy,Soundproof,Filter,Technician,Pink,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png,2
+123,Scyther,1,1.5,56,Bug,Flying,Swarm,Technician,Steadfast,Green,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png,1
+124,Jynx,1,1.4,40.6,Ice,Psychic,Oblivious,Forewarn,Dry Skin,Red,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png,2
+125,Electabuzz,1,1.1,30,Electric,,Static,,Vital Spirit,Yellow,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png,2
+126,Magmar,1,1.3,44.5,Fire,,Flame Body,,Vital Spirit,Red,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png,2
+127,Pinsir,1,1.5,55,Bug,,Hyper Cutter,Mold Breaker,Moxie,Brown,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png,1
+128,Tauros,1,1.4,88.4,Normal,,Intimidate,Anger Point,Sheer Force,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png,1
+129,Magikarp,1,0.9,10,Water,,Swift Swim,,Rattled,Red,Water2,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png,1
+130,Gyarados,1,6.5,235,Water,Flying,Intimidate,,Moxie,Blue,Water2,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png,2
+131,Lapras,1,2.5,220,Water,Ice,Water Absorb,Shell Armor,Hydration,Blue,Monster,Water1,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png,1
+132,Ditto,1,0.3,4,Normal,,Limber,,Imposter,Purple,Ditto,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png,1
+133,Eevee,1,0.3,6.5,Normal,,Run Away,Adaptability,Anticipation,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png,1
+134,Vaporeon,1,1,29,Water,,Water Absorb,,Hydration,Blue,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png,2
+135,Jolteon,1,0.8,24.5,Electric,,Volt Absorb,,Quick Feet,Yellow,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png,2
+136,Flareon,1,0.9,25,Fire,,Flash Fire,,Guts,Red,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png,2
+137,Porygon,1,0.8,36.5,Normal,,Trace,Download,Analytic,Pink,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png,1
+138,Omanyte,1,0.4,7.5,Rock,Water,Swift Swim,Shell Armor,Weak Armor,Blue,Water1,Water3,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/138.png,1
+139,Omastar,1,1,35,Rock,Water,Swift Swim,Shell Armor,Weak Armor,Blue,Water1,Water3,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png,2
+140,Kabuto,1,0.5,11.5,Rock,Water,Swift Swim,Battle Armor,Weak Armor,Brown,Water1,Water3,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png,1
+141,Kabutops,1,1.3,40.5,Rock,Water,Swift Swim,Battle Armor,Weak Armor,Brown,Water1,Water3,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png,2
+142,Aerodactyl,1,1.8,59,Rock,Flying,Rock Head,Pressure,Unnerve,Purple,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png,1
+143,Snorlax,1,2.1,460,Normal,,Immunity,Thick Fat,Gluttony,Black,Monster,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png,2
+144,Articuno,1,1.7,55.4,Ice,Flying,Pressure,,Snow Cloak,Blue,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png,1
+145,Zapdos,1,1.6,52.6,Electric,Flying,Pressure,,Static,Yellow,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png,1
+146,Moltres,1,2,60,Fire,Flying,Pressure,,Flame Body,Yellow,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png,1
+147,Dratini,1,1.8,3.3,Dragon,,Shed Skin,,Marvel Scale,Blue,Water1,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png,1
+148,Dragonair,1,4,16.5,Dragon,,Shed Skin,,Marvel Scale,Blue,Water1,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png,2
+149,Dragonite,1,2.2,210,Dragon,Flying,Inner Focus,,Multiscale,Brown,Water1,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png,3
+150,Mewtwo,1,2,122,Psychic,,Pressure,,Unnerve,Purple,Undiscovered,,Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png,1
+151,Mew,1,0.4,4,Psychic,,Synchronize,,,Pink,Undiscovered,,Mythical,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png,1
+152,Chikorita,2,0.9,6.4,Grass,,Overgrow,,Leaf Guard,Green,Monster,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png,1
+153,Bayleef,2,1.2,15.8,Grass,,Overgrow,,Leaf Guard,Green,Monster,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/153.png,2
+154,Meganium,2,1.8,100.5,Grass,,Overgrow,,Leaf Guard,Green,Monster,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/154.png,3
+155,Cyndaquil,2,0.5,7.9,Fire,,Blaze,,Flash Fire,Yellow,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/155.png,1
+156,Quilava,2,0.9,19,Fire,,Blaze,,Flash Fire,Yellow,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/156.png,2
+157,Typhlosion,2,1.7,79.5,Fire,,Blaze,,Flash Fire,Yellow,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/157.png,3
+158,Totodile,2,0.6,9.5,Water,,Torrent,,Sheer Force,Blue,Monster,Water1,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/158.png,1
+159,Croconaw,2,1.1,25,Water,,Torrent,,Sheer Force,Blue,Monster,Water1,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/159.png,2
+160,Feraligatr,2,2.3,88.8,Water,,Torrent,,Sheer Force,Blue,Monster,Water1,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/160.png,3
+161,Sentret,2,0.8,6,Normal,,Run Away,Keen Eye,Frisk,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/161.png,1
+162,Furret,2,1.8,32.5,Normal,,Run Away,Keen Eye,Frisk,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png,2
+163,Hoothoot,2,0.7,21.2,Normal,Flying,Insomnia,Keen Eye,Tinted Lens,Brown,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/163.png,1
+164,Noctowl,2,1.6,40.8,Normal,Flying,Insomnia,Keen Eye,Tinted Lens,Brown,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png,2
+165,Ledyba,2,1,10.8,Bug,Flying,Swarm,Early Bird,Rattled,Red,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/165.png,1
+166,Ledian,2,1.4,35.6,Bug,Flying,Swarm,Early Bird,Iron Fist,Red,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/166.png,2
+167,Spinarak,2,0.5,8.5,Bug,Poison,Swarm,Insomnia,Sniper,Green,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/167.png,1
+168,Ariados,2,1.1,33.5,Bug,Poison,Swarm,Insomnia,Sniper,Red,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png,2
+169,Crobat,2,1.8,75,Poison,Flying,Inner Focus,,Infiltrator,Purple,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/169.png,3
+170,Chinchou,2,0.5,12,Water,Electric,Volt Absorb,Illuminate,Water Absorb,Blue,Water2,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/170.png,1
+171,Lanturn,2,1.2,22.5,Water,Electric,Volt Absorb,Illuminate,Water Absorb,Blue,Water2,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/171.png,2
+172,Pichu,2,0.3,2,Electric,,Static,,Lightning Rod,Yellow,Undiscovered,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png,1
+173,Cleffa,2,0.3,3,Fairy,,Cute Charm,Magic Guard,Friend Guard,Pink,Undiscovered,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/173.png,1
+174,Igglybuff,2,0.3,1,Normal,Fairy,Cute Charm,Competitive,Friend Guard,Pink,Undiscovered,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/174.png,1
+175,Togepi,2,0.3,1.5,Fairy,,Hustle,Serene Grace,Super Luck,White,Undiscovered,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/175.png,1
+176,Togetic,2,0.6,3.2,Fairy,Flying,Hustle,Serene Grace,Super Luck,White,Flying,Fairy,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/176.png,2
+177,Natu,2,0.2,2,Psychic,Flying,Synchronize,Early Bird,Magic Bounce,Green,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png,1
+178,Xatu,2,1.5,15,Psychic,Flying,Synchronize,Early Bird,Magic Bounce,Green,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/178.png,2
+179,Mareep,2,0.6,7.8,Electric,,Static,,Plus,White,Monster,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/179.png,1
+180,Flaaffy,2,0.8,13.3,Electric,,Static,,Plus,Pink,Monster,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png,2
+181,Ampharos,2,1.4,61.5,Electric,,Static,,Plus,Yellow,Monster,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/181.png,3
+182,Bellossom,2,0.4,5.8,Grass,,Chlorophyll,,Healer,Green,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/182.png,3
+183,Marill,2,0.4,8.5,Water,Fairy,Thick Fat,Huge Power,Sap Sipper,Blue,Water1,Fairy,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/183.png,2
+184,Azumarill,2,0.8,28.5,Water,Fairy,Thick Fat,Huge Power,Sap Sipper,Blue,Water1,Fairy,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/184.png,3
+185,Sudowoodo,2,1.2,38,Rock,,Sturdy,Rock Head,Rattled,Brown,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/185.png,2
+186,Politoed,2,1.1,33.9,Water,,Water Absorb,Damp,Drizzle,Green,Water1,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/186.png,3
+187,Hoppip,2,0.4,0.5,Grass,Flying,Chlorophyll,Leaf Guard,Infiltrator,Pink,Fairy,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png,1
+188,Skiploom,2,0.6,1,Grass,Flying,Chlorophyll,Leaf Guard,Infiltrator,Green,Fairy,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/188.png,2
+189,Jumpluff,2,0.8,3,Grass,Flying,Chlorophyll,Leaf Guard,Infiltrator,Blue,Fairy,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/189.png,3
+190,Aipom,2,0.8,11.5,Normal,,Run Away,Pickup,Skill Link,Purple,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png,1
+191,Sunkern,2,0.3,1.8,Grass,,Chlorophyll,Solar Power,Early Bird,Yellow,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png,1
+192,Sunflora,2,0.8,8.5,Grass,,Chlorophyll,Solar Power,Early Bird,Yellow,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/192.png,2
+193,Yanma,2,1.2,38,Bug,Flying,Speed Boost,Compound Eyes,Frisk,Red,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/193.png,1
+194,Wooper,2,0.4,8.5,Water,Ground,Damp,Water Absorb,Unaware,Blue,Water1,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/194.png,1
+195,Quagsire,2,1.4,75,Water,Ground,Damp,Water Absorb,Unaware,Blue,Water1,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png,2
+196,Espeon,2,0.9,26.5,Psychic,,Synchronize,,Magic Bounce,Purple,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png,2
+197,Umbreon,2,1,27,Dark,,Synchronize,,Inner Focus,Black,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png,2
+198,Murkrow,2,0.5,2.1,Dark,Flying,Insomnia,Super Luck,Prankster,Black,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/198.png,1
+199,Slowking,2,2,79.5,Water,Psychic,Oblivious,Own Tempo,Regenerator,Pink,Monster,Water1,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png,2
+200,Misdreavus,2,0.7,1,Ghost,,Levitate,,,Gray,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/200.png,1
+201,Unown,2,0.5,5,Psychic,,Levitate,,,Black,Undiscovered,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/201.png,1
+202,Wobbuffet,2,1.3,28.5,Psychic,,Shadow Tag,,Telepathy,Blue,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/202.png,2
+203,Girafarig,2,1.5,41.5,Normal,Psychic,Inner Focus,Early Bird,Sap Sipper,Yellow,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/203.png,1
+204,Pineco,2,0.6,7.2,Bug,,Sturdy,,Overcoat,Gray,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/204.png,1
+205,Forretress,2,1.2,125.8,Bug,Steel,Sturdy,,Overcoat,Purple,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png,2
+206,Dunsparce,2,1.5,14,Normal,,Serene Grace,Run Away,Rattled,Yellow,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png,1
+207,Gligar,2,1.1,64.8,Ground,Flying,Hyper Cutter,Sand Veil,Immunity,Purple,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/207.png,1
+208,Steelix,2,9.2,400,Steel,Ground,Rock Head,Sturdy,Sheer Force,Gray,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/208.png,2
+209,Snubbull,2,0.6,7.8,Fairy,,Intimidate,Run Away,Rattled,Pink,Ground,Fairy,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/209.png,1
+210,Granbull,2,1.4,48.7,Fairy,,Intimidate,Quick Feet,Rattled,Purple,Ground,Fairy,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png,2
+211,Qwilfish,2,0.5,3.9,Water,Poison,Poison Point,Swift Swim,Intimidate,Gray,Water2,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/211.png,1
+212,Scizor,2,1.8,118,Bug,Steel,Swarm,Technician,Light Metal,Red,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png,2
+213,Shuckle,2,0.6,20.5,Bug,Rock,Sturdy,Gluttony,Contrary,Yellow,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/213.png,1
+214,Heracross,2,1.5,54,Bug,Fighting,Swarm,Guts,Moxie,Blue,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png,1
+215,Sneasel,2,0.9,28,Dark,Ice,Inner Focus,Keen Eye,Pickpocket,Black,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/215.png,1
+216,Teddiursa,2,0.6,8.8,Normal,,Pickup,Quick Feet,Honey Gather,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png,1
+217,Ursaring,2,1.8,125.8,Normal,,Guts,Quick Feet,Unnerve,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png,2
+218,Slugma,2,0.7,35,Fire,,Magma Armor,Flame Body,Weak Armor,Red,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/218.png,1
+219,Magcargo,2,0.8,55,Fire,Rock,Magma Armor,Flame Body,Weak Armor,Red,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/219.png,2
+220,Swinub,2,0.4,6.5,Ice,Ground,Oblivious,Snow Cloak,Thick Fat,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/220.png,1
+221,Piloswine,2,1.1,55.8,Ice,Ground,Oblivious,Snow Cloak,Thick Fat,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/221.png,2
+222,Corsola,2,0.6,5,Water,Rock,Hustle,Natural Cure,Regenerator,Pink,Water1,Water3,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/222.png,1
+223,Remoraid,2,0.6,12,Water,,Hustle,Sniper,Moody,Gray,Water1,Water2,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/223.png,1
+224,Octillery,2,0.9,28.5,Water,,Suction Cups,Sniper,Moody,Red,Water1,Water2,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png,2
+225,Delibird,2,0.9,16,Ice,Flying,Vital Spirit,Hustle,Insomnia,Red,Water1,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png,1
+226,Mantine,2,2.1,220,Water,Flying,Swift Swim,Water Absorb,Water Veil,Purple,Water1,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/226.png,2
+227,Skarmory,2,1.7,50.5,Steel,Flying,Keen Eye,Sturdy,Weak Armor,Gray,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/227.png,1
+228,Houndour,2,0.6,10.8,Dark,Fire,Early Bird,Flash Fire,Unnerve,Black,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/228.png,1
+229,Houndoom,2,1.4,35,Dark,Fire,Early Bird,Flash Fire,Unnerve,Black,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/229.png,2
+230,Kingdra,2,1.8,152,Water,Dragon,Swift Swim,Sniper,Damp,Blue,Water1,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/230.png,3
+231,Phanpy,2,0.5,33.5,Ground,,Pickup,,Sand Veil,Blue,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/231.png,1
+232,Donphan,2,1.1,120,Ground,,Sturdy,,Sand Veil,Gray,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/232.png,2
+233,Porygon2,2,0.6,32.5,Normal,,Trace,Download,Analytic,Red,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/233.png,2
+234,Stantler,2,1.4,71.2,Normal,,Intimidate,Frisk,Sap Sipper,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/234.png,1
+235,Smeargle,2,1.2,58,Normal,,Own Tempo,Technician,Moody,White,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png,1
+236,Tyrogue,2,0.7,21,Fighting,,Guts,Steadfast,Vital Spirit,Purple,Undiscovered,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/236.png,1
+237,Hitmontop,2,1.4,48,Fighting,,Intimidate,Technician,Steadfast,Brown,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/237.png,2
+238,Smoochum,2,0.4,6,Ice,Psychic,Oblivious,Forewarn,Hydration,Pink,Undiscovered,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/238.png,1
+239,Elekid,2,0.6,23.5,Electric,,Static,,Vital Spirit,Yellow,Undiscovered,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/239.png,1
+240,Magby,2,0.7,21.4,Fire,,Flame Body,,Vital Spirit,Red,Undiscovered,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png,1
+241,Miltank,2,1.2,75.5,Normal,,Thick Fat,Scrappy,Sap Sipper,Pink,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/241.png,1
+242,Blissey,2,1.5,46.8,Normal,,Natural Cure,Serene Grace,Healer,Pink,Fairy,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/242.png,3
+243,Raikou,2,1.9,178,Electric,,Pressure,,Inner Focus,Yellow,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/243.png,1
+244,Entei,2,2.1,198,Fire,,Pressure,,Inner Focus,Brown,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png,1
+245,Suicune,2,2,187,Water,,Pressure,,Inner Focus,Blue,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/245.png,1
+246,Larvitar,2,0.6,72,Rock,Ground,Guts,,Sand Veil,Green,Monster,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png,1
+247,Pupitar,2,1.2,152,Rock,Ground,Shed Skin,,,Gray,Monster,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png,2
+248,Tyranitar,2,2,202,Rock,Dark,Sand Stream,,Unnerve,Green,Monster,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/248.png,3
+249,Lugia,2,5.2,216,Psychic,Flying,Pressure,,Multiscale,White,Undiscovered,,Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/249.png,1
+250,Ho-Oh,2,3.8,199,Fire,Flying,Pressure,,Regenerator,Red,Undiscovered,,Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/250.png,1
+251,Celebi,2,0.6,5,Psychic,Grass,Natural Cure,,,Green,Undiscovered,,Mythical,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png,1
+252,Treecko,3,0.5,5,Grass,,Overgrow,,Unburden,Green,Monster,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/252.png,1
+253,Grovyle,3,0.9,21.6,Grass,,Overgrow,,Unburden,Green,Monster,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/253.png,2
+254,Sceptile,3,1.7,52.2,Grass,,Overgrow,,Unburden,Green,Monster,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/254.png,3
+255,Torchic,3,0.4,2.5,Fire,,Blaze,,Speed Boost,Red,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/255.png,1
+256,Combusken,3,0.9,19.5,Fire,Fighting,Blaze,,Speed Boost,Red,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/256.png,2
+257,Blaziken,3,1.9,52,Fire,Fighting,Blaze,,Speed Boost,Red,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/257.png,3
+258,Mudkip,3,0.4,7.6,Water,,Torrent,,Damp,Blue,Monster,Water1,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/258.png,1
+259,Marshtomp,3,0.7,28,Water,Ground,Torrent,,Damp,Blue,Monster,Water1,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/259.png,2
+260,Swampert,3,1.5,81.9,Water,Ground,Torrent,,Damp,Blue,Monster,Water1,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/260.png,3
+261,Poochyena,3,0.5,13.6,Dark,,Run Away,Quick Feet,Rattled,Gray,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/261.png,1
+262,Mightyena,3,1,37,Dark,,Intimidate,Quick Feet,Moxie,Gray,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/262.png,2
+263,Zigzagoon,3,0.4,17.5,Normal,,Pickup,Gluttony,Quick Feet,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/263.png,1
+264,Linoone,3,0.5,32.5,Normal,,Pickup,Gluttony,Quick Feet,White,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/264.png,2
+265,Wurmple,3,0.3,3.6,Bug,,Shield Dust,,Run Away,Red,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png,1
+266,Silcoon,3,0.6,10,Bug,,Shed Skin,,,White,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/266.png,2
+267,Beautifly,3,1,28.4,Bug,Flying,Swarm,,Rivalry,Yellow,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/267.png,3
+268,Cascoon,3,0.7,11.5,Bug,,Shed Skin,,,Purple,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/268.png,3
+269,Dustox,3,1.2,31.6,Bug,Poison,Shield Dust,,Compound Eyes,Green,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/269.png,3
+270,Lotad,3,0.5,2.6,Water,Grass,Swift Swim,Rain Dish,Own Tempo,Green,Water1,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/270.png,1
+271,Lombre,3,1.2,32.5,Water,Grass,Swift Swim,Rain Dish,Own Tempo,Green,Water1,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/271.png,2
+272,Ludicolo,3,1.5,55,Water,Grass,Swift Swim,Rain Dish,Own Tempo,Green,Water1,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png,3
+273,Seedot,3,0.5,4,Grass,,Chlorophyll,Early Bird,Pickpocket,Brown,Ground,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/273.png,1
+274,Nuzleaf,3,1,28,Grass,Dark,Chlorophyll,Early Bird,Pickpocket,Brown,Ground,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/274.png,2
+275,Shiftry,3,1.3,59.6,Grass,Dark,Chlorophyll,Early Bird,Pickpocket,Brown,Ground,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png,3
+276,Taillow,3,0.3,2.3,Normal,Flying,Guts,,Scrappy,Blue,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/276.png,1
+277,Swellow,3,0.7,19.8,Normal,Flying,Guts,,Scrappy,Blue,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/277.png,2
+278,Wingull,3,0.6,9.5,Water,Flying,Keen Eye,Hydration,Rain Dish,White,Water1,Flying,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/278.png,1
+279,Pelipper,3,1.2,28,Water,Flying,Keen Eye,Drizzle,Rain Dish,Yellow,Water1,Flying,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/279.png,2
+280,Ralts,3,0.4,6.6,Psychic,Fairy,Synchronize,Trace,Telepathy,White,Human-Like,Amorphous,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/280.png,1
+281,Kirlia,3,0.8,20.2,Psychic,Fairy,Synchronize,Trace,Telepathy,White,Human-Like,Amorphous,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/281.png,2
+282,Gardevoir,3,1.6,48.4,Psychic,Fairy,Synchronize,Trace,Telepathy,White,Human-Like,Amorphous,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png,3
+283,Surskit,3,0.5,1.7,Bug,Water,Swift Swim,,Rain Dish,Blue,Water1,Bug,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/283.png,1
+284,Masquerain,3,0.8,3.6,Bug,Flying,Intimidate,,Unnerve,Blue,Water1,Bug,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/284.png,2
+285,Shroomish,3,0.4,4.5,Grass,,Effect Spore,Poison Heal,Quick Feet,Brown,Fairy,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/285.png,1
+286,Breloom,3,1.2,39.2,Grass,Fighting,Effect Spore,Poison Heal,Technician,Green,Fairy,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png,2
+287,Slakoth,3,0.8,24,Normal,,Truant,,,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/287.png,1
+288,Vigoroth,3,1.4,46.5,Normal,,Vital Spirit,,,White,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/288.png,2
+289,Slaking,3,2,130.5,Normal,,Truant,,,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/289.png,3
+290,Nincada,3,0.5,5.5,Bug,Ground,Compound Eyes,,Run Away,Gray,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/290.png,1
+291,Ninjask,3,0.8,12,Bug,Flying,Speed Boost,,Infiltrator,Yellow,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/291.png,2
+292,Shedinja,3,0.8,1.2,Bug,Ghost,Wonder Guard,,,Brown,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png,2
+293,Whismur,3,0.6,16.3,Normal,,Soundproof,,Rattled,Pink,Monster,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/293.png,1
+294,Loudred,3,1,40.5,Normal,,Soundproof,,Scrappy,Blue,Monster,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/294.png,2
+295,Exploud,3,1.5,84,Normal,,Soundproof,,Scrappy,Blue,Monster,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/295.png,3
+296,Makuhita,3,1,86.4,Fighting,,Thick Fat,Guts,Sheer Force,Yellow,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/296.png,1
+297,Hariyama,3,2.3,253.8,Fighting,,Thick Fat,Guts,Sheer Force,Brown,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/297.png,2
+298,Azurill,3,0.2,2,Normal,Fairy,Thick Fat,Huge Power,Sap Sipper,Blue,Undiscovered,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/298.png,1
+299,Nosepass,3,1,97,Rock,,Sturdy,Magnet Pull,Sand Force,Gray,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/299.png,1
+300,Skitty,3,0.6,11,Normal,,Cute Charm,Normalize,Wonder Skin,Pink,Ground,Fairy,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/300.png,1
+301,Delcatty,3,1.1,32.6,Normal,,Cute Charm,Normalize,Wonder Skin,Purple,Ground,Fairy,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/301.png,2
+302,Sableye,3,0.5,11,Dark,Ghost,Keen Eye,Stall,Prankster,Purple,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/302.png,1
+303,Mawile,3,0.6,11.5,Steel,Fairy,Hyper Cutter,Intimidate,Sheer Force,Black,Ground,Fairy,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png,1
+304,Aron,3,0.4,60,Steel,Rock,Sturdy,Rock Head,Heavy Metal,Gray,Monster,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/304.png,1
+305,Lairon,3,0.9,120,Steel,Rock,Sturdy,Rock Head,Heavy Metal,Gray,Monster,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/305.png,2
+306,Aggron,3,2.1,360,Steel,Rock,Sturdy,Rock Head,Heavy Metal,Gray,Monster,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/306.png,3
+307,Meditite,3,0.6,11.2,Fighting,Psychic,Pure Power,,Telepathy,Blue,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/307.png,1
+308,Medicham,3,1.3,31.5,Fighting,Psychic,Pure Power,,Telepathy,Red,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/308.png,2
+309,Electrike,3,0.6,15.2,Electric,,Static,Lightning Rod,Minus,Green,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png,1
+310,Manectric,3,1.5,40.2,Electric,,Static,Lightning Rod,Minus,Yellow,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/310.png,2
+311,Plusle,3,0.4,4.2,Electric,,Plus,,Lightning Rod,Yellow,Fairy,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/311.png,1
+312,Minun,3,0.4,4.2,Electric,,Minus,,Volt Absorb,Yellow,Fairy,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/312.png,1
+313,Volbeat,3,0.7,17.7,Bug,,Illuminate,Swarm,Prankster,Gray,Bug,Human-Like,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/313.png,1
+314,Illumise,3,0.6,17.7,Bug,,Oblivious,Tinted Lens,Prankster,Purple,Bug,Human-Like,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/314.png,1
+315,Roselia,3,0.3,2,Grass,Poison,Natural Cure,Poison Point,Leaf Guard,Green,Fairy,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/315.png,2
+316,Gulpin,3,0.4,10.3,Poison,,Liquid Ooze,Sticky Hold,Gluttony,Green,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/316.png,1
+317,Swalot,3,1.7,80,Poison,,Liquid Ooze,Sticky Hold,Gluttony,Purple,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/317.png,2
+318,Carvanha,3,0.8,20.8,Water,Dark,Rough Skin,,Speed Boost,Red,Water2,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/318.png,1
+319,Sharpedo,3,1.8,88.8,Water,Dark,Rough Skin,,Speed Boost,Blue,Water2,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/319.png,2
+320,Wailmer,3,2,130,Water,,Water Veil,Oblivious,Pressure,Blue,Ground,Water2,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/320.png,1
+321,Wailord,3,14.5,398,Water,,Water Veil,Oblivious,Pressure,Blue,Ground,Water2,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/321.png,2
+322,Numel,3,0.7,24,Fire,Ground,Oblivious,Simple,Own Tempo,Yellow,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/322.png,1
+323,Camerupt,3,1.9,220,Fire,Ground,Magma Armor,Solid Rock,Anger Point,Red,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/323.png,2
+324,Torkoal,3,0.5,80.4,Fire,,White Smoke,Drought,Shell Armor,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/324.png,1
+325,Spoink,3,0.7,30.6,Psychic,,Thick Fat,Own Tempo,Gluttony,Black,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/325.png,1
+326,Grumpig,3,0.9,71.5,Psychic,,Thick Fat,Own Tempo,Gluttony,Purple,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/326.png,2
+327,Spinda,3,1.1,5,Normal,,Own Tempo,Tangled Feet,Contrary,Brown,Ground,Human-Like,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/327.png,1
+328,Trapinch,3,0.7,15,Ground,,Hyper Cutter,Arena Trap,Sheer Force,Brown,Bug,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/328.png,1
+329,Vibrava,3,1.1,15.3,Ground,Dragon,Levitate,,,Green,Bug,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/329.png,2
+330,Flygon,3,2,82,Ground,Dragon,Levitate,,,Green,Bug,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png,3
+331,Cacnea,3,0.4,51.3,Grass,,Sand Veil,,Water Absorb,Green,Grass,Human-Like,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/331.png,1
+332,Cacturne,3,1.3,77.4,Grass,Dark,Sand Veil,,Water Absorb,Green,Grass,Human-Like,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png,2
+333,Swablu,3,0.4,1.2,Normal,Flying,Natural Cure,,Cloud Nine,Blue,Flying,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/333.png,1
+334,Altaria,3,1.1,20.6,Dragon,Flying,Natural Cure,,Cloud Nine,Blue,Flying,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/334.png,2
+335,Zangoose,3,1.3,40.3,Normal,,Immunity,,Toxic Boost,White,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/335.png,1
+336,Seviper,3,2.7,52.5,Poison,,Shed Skin,,Infiltrator,Black,Ground,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/336.png,1
+337,Lunatone,3,1,168,Rock,Psychic,Levitate,,,Yellow,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/337.png,1
+338,Solrock,3,1.2,154,Rock,Psychic,Levitate,,,Red,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/338.png,1
+339,Barboach,3,0.4,1.9,Water,Ground,Oblivious,Anticipation,Hydration,Gray,Water2,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/339.png,1
+340,Whiscash,3,0.9,23.6,Water,Ground,Oblivious,Anticipation,Hydration,Blue,Water2,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/340.png,2
+341,Corphish,3,0.6,11.5,Water,,Hyper Cutter,Shell Armor,Adaptability,Red,Water1,Water3,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/341.png,1
+342,Crawdaunt,3,1.1,32.8,Water,Dark,Hyper Cutter,Shell Armor,Adaptability,Red,Water1,Water3,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/342.png,2
+343,Baltoy,3,0.5,21.5,Ground,Psychic,Levitate,,,Brown,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/343.png,1
+344,Claydol,3,1.5,108,Ground,Psychic,Levitate,,,Black,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/344.png,2
+345,Lileep,3,1,23.8,Rock,Grass,Suction Cups,,Storm Drain,Purple,Water3,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/345.png,1
+346,Cradily,3,1.5,60.4,Rock,Grass,Suction Cups,,Storm Drain,Green,Water3,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/346.png,2
+347,Anorith,3,0.7,12.5,Rock,Bug,Battle Armor,,Swift Swim,Gray,Water3,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/347.png,1
+348,Armaldo,3,1.5,68.2,Rock,Bug,Battle Armor,,Swift Swim,Gray,Water3,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/348.png,2
+349,Feebas,3,0.6,7.4,Water,,Swift Swim,Oblivious,Adaptability,Brown,Water1,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/349.png,1
+350,Milotic,3,6.2,162,Water,,Marvel Scale,Competitive,Cute Charm,Pink,Water1,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png,2
+351,Castform,3,0.3,0.8,Normal,,Forecast,,,Gray,Fairy,Amorphous,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/351.png,1
+352,Kecleon,3,1,22,Normal,,Color Change,,Protean,Green,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/352.png,1
+353,Shuppet,3,0.6,2.3,Ghost,,Insomnia,Frisk,Cursed Body,Black,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/353.png,1
+354,Banette,3,1.1,12.5,Ghost,,Insomnia,Frisk,Cursed Body,Black,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/354.png,2
+355,Duskull,3,0.8,15,Ghost,,Levitate,,Frisk,Black,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png,1
+356,Dusclops,3,1.6,30.6,Ghost,,Pressure,,Frisk,Black,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/356.png,2
+357,Tropius,3,2,100,Grass,Flying,Chlorophyll,Solar Power,Harvest,Green,Monster,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png,1
+358,Chimecho,3,0.6,1,Psychic,,Levitate,,,Blue,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/358.png,2
+359,Absol,3,1.2,47,Dark,,Pressure,Super Luck,Justified,White,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/359.png,1
+360,Wynaut,3,0.6,14,Psychic,,Shadow Tag,,Telepathy,Blue,Undiscovered,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/360.png,1
+361,Snorunt,3,0.7,16.8,Ice,,Inner Focus,Ice Body,Moody,Gray,Fairy,Mineral,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/361.png,1
+362,Glalie,3,1.5,256.5,Ice,,Inner Focus,Ice Body,Moody,Gray,Fairy,Mineral,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/362.png,2
+363,Spheal,3,0.8,39.5,Ice,Water,Thick Fat,Ice Body,Oblivious,Blue,Water1,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/363.png,1
+364,Sealeo,3,1.1,87.6,Ice,Water,Thick Fat,Ice Body,Oblivious,Blue,Water1,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/364.png,2
+365,Walrein,3,1.4,150.6,Ice,Water,Thick Fat,Ice Body,Oblivious,Blue,Water1,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/365.png,3
+366,Clamperl,3,0.4,52.5,Water,,Shell Armor,,Rattled,Blue,Water1,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/366.png,1
+367,Huntail,3,1.7,27,Water,,Swift Swim,,Water Veil,Blue,Water1,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png,2
+368,Gorebyss,3,1.8,22.6,Water,,Swift Swim,,Hydration,Pink,Water1,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/368.png,2
+369,Relicanth,3,1,23.4,Water,Rock,Swift Swim,Rock Head,Sturdy,Gray,Water1,Water2,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/369.png,1
+370,Luvdisc,3,0.6,8.7,Water,,Swift Swim,,Hydration,Pink,Water2,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/370.png,1
+371,Bagon,3,0.6,42.1,Dragon,,Rock Head,,Sheer Force,Blue,Dragon,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/371.png,1
+372,Shelgon,3,1.1,110.5,Dragon,,Rock Head,,Overcoat,White,Dragon,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/372.png,2
+373,Salamence,3,1.5,102.6,Dragon,Flying,Intimidate,,Moxie,Blue,Dragon,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/373.png,3
+374,Beldum,3,0.6,95.2,Steel,Psychic,Clear Body,,Light Metal,Blue,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png,1
+375,Metang,3,1.2,202.5,Steel,Psychic,Clear Body,,Light Metal,Blue,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/375.png,2
+376,Metagross,3,1.6,550,Steel,Psychic,Clear Body,,Light Metal,Blue,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png,3
+377,Regirock,3,1.7,230,Rock,,Clear Body,,Sturdy,Brown,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png,1
+378,Regice,3,1.8,175,Ice,,Clear Body,,Ice Body,Blue,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/378.png,1
+379,Registeel,3,1.9,205,Steel,,Clear Body,,Light Metal,Gray,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/379.png,1
+380,Latias,3,1.4,40,Dragon,Psychic,Levitate,,,Red,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/380.png,1
+381,Latios,3,2,60,Dragon,Psychic,Levitate,,,Blue,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/381.png,1
+382,Kyogre,3,4.5,352,Water,,Drizzle,,,Blue,Undiscovered,,Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png,1
+383,Groudon,3,3.5,950,Ground,,Drought,,,Red,Undiscovered,,Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/383.png,1
+384,Rayquaza,3,7,206.5,Dragon,Flying,Air Lock,,,Green,Undiscovered,,Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png,1
+385,Jirachi,3,0.3,1.1,Steel,Psychic,Serene Grace,,,Yellow,Undiscovered,,Mythical,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/385.png,1
+386,Deoxys,3,1.7,60.8,Psychic,,Pressure,,,Red,Undiscovered,,Mythical,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/386.png,1
+387,Turtwig,4,0.4,10.2,Grass,,Overgrow,,Shell Armor,Green,Monster,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/387.png,1
+388,Grotle,4,1.1,97,Grass,,Overgrow,,Shell Armor,Green,Monster,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/388.png,2
+389,Torterra,4,2.2,310,Grass,Ground,Overgrow,,Shell Armor,Green,Monster,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/389.png,3
+390,Chimchar,4,0.5,6.2,Fire,,Blaze,,Iron Fist,Brown,Ground,Human-Like,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/390.png,1
+391,Monferno,4,0.9,22,Fire,Fighting,Blaze,,Iron Fist,Brown,Ground,Human-Like,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/391.png,2
+392,Infernape,4,1.2,55,Fire,Fighting,Blaze,,Iron Fist,Brown,Ground,Human-Like,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png,3
+393,Piplup,4,0.4,5.2,Water,,Torrent,,Defiant,Blue,Water1,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/393.png,1
+394,Prinplup,4,0.8,23,Water,,Torrent,,Defiant,Blue,Water1,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/394.png,2
+395,Empoleon,4,1.7,84.5,Water,Steel,Torrent,,Defiant,Blue,Water1,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png,3
+396,Starly,4,0.3,2,Normal,Flying,Keen Eye,,Reckless,Brown,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/396.png,1
+397,Staravia,4,0.6,15.5,Normal,Flying,Intimidate,,Reckless,Brown,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/397.png,2
+398,Staraptor,4,1.2,24.9,Normal,Flying,Intimidate,,Reckless,Brown,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png,3
+399,Bidoof,4,0.5,20,Normal,,Simple,Unaware,Moody,Brown,Water1,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/399.png,1
+400,Bibarel,4,1,31.5,Normal,Water,Simple,Unaware,Moody,Brown,Water1,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/400.png,2
+401,Kricketot,4,0.3,2.2,Bug,,Shed Skin,,Run Away,Red,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/401.png,1
+402,Kricketune,4,1,25.5,Bug,,Swarm,,Technician,Red,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/402.png,2
+403,Shinx,4,0.5,9.5,Electric,,Rivalry,Intimidate,Guts,Blue,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/403.png,1
+404,Luxio,4,0.9,30.5,Electric,,Rivalry,Intimidate,Guts,Blue,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/404.png,2
+405,Luxray,4,1.4,42,Electric,,Rivalry,Intimidate,Guts,Blue,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/405.png,3
+406,Budew,4,0.2,1.2,Grass,Poison,Natural Cure,Poison Point,Leaf Guard,Green,Undiscovered,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/406.png,1
+407,Roserade,4,0.9,14.5,Grass,Poison,Natural Cure,Poison Point,Technician,Green,Fairy,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/407.png,3
+408,Cranidos,4,0.9,31.5,Rock,,Mold Breaker,,Sheer Force,Blue,Monster,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/408.png,1
+409,Rampardos,4,1.6,102.5,Rock,,Mold Breaker,,Sheer Force,Blue,Monster,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png,2
+410,Shieldon,4,0.5,57,Rock,Steel,Sturdy,,Soundproof,Gray,Monster,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/410.png,1
+411,Bastiodon,4,1.3,149.5,Rock,Steel,Sturdy,,Soundproof,Gray,Monster,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/411.png,2
+412,Burmy,4,0.2,3.4,Bug,,Shed Skin,,Overcoat,Green,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/412.png,1
+413,Wormadam,4,0.5,6.5,Bug,Grass,Anticipation,,Overcoat,Green,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/413.png,2
+414,Mothim,4,0.9,23.3,Bug,Flying,Swarm,,Tinted Lens,Yellow,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/414.png,2
+415,Combee,4,0.3,5.5,Bug,Flying,Honey Gather,,Hustle,Yellow,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/415.png,1
+416,Vespiquen,4,1.2,38.5,Bug,Flying,Pressure,,Unnerve,Yellow,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/416.png,2
+417,Pachirisu,4,0.4,3.9,Electric,,Run Away,Pickup,Volt Absorb,White,Ground,Fairy,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/417.png,1
+418,Buizel,4,0.7,29.5,Water,,Swift Swim,,Water Veil,Brown,Water1,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/418.png,1
+419,Floatzel,4,1.1,33.5,Water,,Swift Swim,,Water Veil,Brown,Water1,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png,2
+420,Cherubi,4,0.4,3.3,Grass,,Chlorophyll,,,Pink,Fairy,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/420.png,1
+421,Cherrim,4,0.5,9.3,Grass,,Flower Gift,,,Purple,Fairy,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/421.png,2
+422,Shellos,4,0.3,6.3,Water,,Sticky Hold,Storm Drain,Sand Force,Purple,Water1,Amorphous,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/422.png,1
+423,Gastrodon,4,0.9,29.9,Water,Ground,Sticky Hold,Storm Drain,Sand Force,Purple,Water1,Amorphous,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/423.png,2
+424,Ambipom,4,1.2,20.3,Normal,,Technician,Pickup,Skill Link,Purple,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/424.png,2
+425,Drifloon,4,0.4,1.2,Ghost,Flying,Aftermath,Unburden,Flare Boost,Purple,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png,1
+426,Drifblim,4,1.2,15,Ghost,Flying,Aftermath,Unburden,Flare Boost,Purple,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/426.png,2
+427,Buneary,4,0.4,5.5,Normal,,Run Away,Klutz,Limber,Brown,Ground,Human-Like,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/427.png,1
+428,Lopunny,4,1.2,33.3,Normal,,Cute Charm,Klutz,Limber,Brown,Ground,Human-Like,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/428.png,2
+429,Mismagius,4,0.9,4.4,Ghost,,Levitate,,,Purple,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png,2
+430,Honchkrow,4,0.9,27.3,Dark,Flying,Insomnia,Super Luck,Moxie,Black,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/430.png,2
+431,Glameow,4,0.5,3.9,Normal,,Limber,Own Tempo,Keen Eye,Gray,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/431.png,1
+432,Purugly,4,1,43.8,Normal,,Thick Fat,Own Tempo,Defiant,Gray,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/432.png,2
+433,Chingling,4,0.2,0.6,Psychic,,Levitate,,,Yellow,Undiscovered,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/433.png,1
+434,Stunky,4,0.4,19.2,Poison,Dark,Stench,Aftermath,Keen Eye,Purple,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/434.png,1
+435,Skuntank,4,1,38,Poison,Dark,Stench,Aftermath,Keen Eye,Purple,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/435.png,2
+436,Bronzor,4,0.5,60.5,Steel,Psychic,Levitate,Heatproof,Heavy Metal,Green,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/436.png,1
+437,Bronzong,4,1.3,187,Steel,Psychic,Levitate,Heatproof,Heavy Metal,Green,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/437.png,2
+438,Bonsly,4,0.5,15,Rock,,Sturdy,Rock Head,Rattled,Brown,Undiscovered,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/438.png,1
+439,Mime Jr.,4,0.6,13,Psychic,Fairy,Soundproof,Filter,Technician,Pink,Undiscovered,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/439.png,1
+440,Happiny,4,0.6,24.4,Normal,,Natural Cure,Serene Grace,Friend Guard,Pink,Undiscovered,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/440.png,1
+441,Chatot,4,0.5,1.9,Normal,Flying,Keen Eye,Tangled Feet,Big Pecks,Black,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/441.png,1
+442,Spiritomb,4,1,108,Ghost,Dark,Pressure,,Infiltrator,Purple,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/442.png,1
+443,Gible,4,0.7,20.5,Dragon,Ground,Sand Veil,,Rough Skin,Blue,Monster,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/443.png,1
+444,Gabite,4,1.4,56,Dragon,Ground,Sand Veil,,Rough Skin,Blue,Monster,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/444.png,2
+445,Garchomp,4,1.9,95,Dragon,Ground,Sand Veil,,Rough Skin,Blue,Monster,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png,3
+446,Munchlax,4,0.6,105,Normal,,Pickup,Thick Fat,Gluttony,Black,Undiscovered,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/446.png,1
+447,Riolu,4,0.7,20.2,Fighting,,Steadfast,Inner Focus,Prankster,Blue,Undiscovered,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png,1
+448,Lucario,4,1.2,54,Fighting,Steel,Steadfast,Inner Focus,Justified,Blue,Ground,Human-Like,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png,2
+449,Hippopotas,4,0.8,49.5,Ground,,Sand Stream,,Sand Force,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/449.png,1
+450,Hippowdon,4,2,300,Ground,,Sand Stream,,Sand Force,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/450.png,2
+451,Skorupi,4,0.8,12,Poison,Bug,Battle Armor,Sniper,Keen Eye,Purple,Bug,Water3,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/451.png,1
+452,Drapion,4,1.3,61.5,Poison,Dark,Battle Armor,Sniper,Keen Eye,Purple,Bug,Water3,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/452.png,2
+453,Croagunk,4,0.7,23,Poison,Fighting,Anticipation,Dry Skin,Poison Touch,Blue,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/453.png,1
+454,Toxicroak,4,1.3,44.4,Poison,Fighting,Anticipation,Dry Skin,Poison Touch,Blue,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/454.png,2
+455,Carnivine,4,1.4,27,Grass,,Levitate,,,Green,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/455.png,1
+456,Finneon,4,0.4,7,Water,,Swift Swim,Storm Drain,Water Veil,Blue,Water2,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/456.png,1
+457,Lumineon,4,1.2,24,Water,,Swift Swim,Storm Drain,Water Veil,Blue,Water2,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/457.png,2
+458,Mantyke,4,1,65,Water,Flying,Swift Swim,Water Absorb,Water Veil,Blue,Undiscovered,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/458.png,1
+459,Snover,4,1,50.5,Grass,Ice,Snow Warning,,Soundproof,White,Monster,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/459.png,1
+460,Abomasnow,4,2.2,135.5,Grass,Ice,Snow Warning,,Soundproof,White,Monster,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/460.png,2
+461,Weavile,4,1.1,34,Dark,Ice,Pressure,,Pickpocket,Black,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png,2
+462,Magnezone,4,1.2,180,Electric,Steel,Magnet Pull,Sturdy,Analytic,Gray,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/462.png,3
+463,Lickilicky,4,1.7,140,Normal,,Own Tempo,Oblivious,Cloud Nine,Pink,Monster,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/463.png,2
+464,Rhyperior,4,2.4,282.8,Ground,Rock,Lightning Rod,Solid Rock,Reckless,Gray,Monster,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/464.png,3
+465,Tangrowth,4,2,128.6,Grass,,Chlorophyll,Leaf Guard,Regenerator,Blue,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png,2
+466,Electivire,4,1.8,138.6,Electric,,Motor Drive,,Vital Spirit,Yellow,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png,3
+467,Magmortar,4,1.6,68,Fire,,Flame Body,,Vital Spirit,Red,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/467.png,3
+468,Togekiss,4,1.5,38,Fairy,Flying,Hustle,Serene Grace,Super Luck,White,Flying,Fairy,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png,3
+469,Yanmega,4,1.9,51.5,Bug,Flying,Speed Boost,Tinted Lens,Frisk,Green,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/469.png,2
+470,Leafeon,4,1,25.5,Grass,,Leaf Guard,,Chlorophyll,Green,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/470.png,2
+471,Glaceon,4,0.8,25.9,Ice,,Snow Cloak,,Ice Body,Blue,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png,2
+472,Gliscor,4,2,42.5,Ground,Flying,Hyper Cutter,Sand Veil,Poison Heal,Purple,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/472.png,2
+473,Mamoswine,4,2.5,291,Ice,Ground,Oblivious,Snow Cloak,Thick Fat,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/473.png,3
+474,Porygon-Z,4,0.9,34,Normal,,Adaptability,Download,Analytic,Red,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/474.png,3
+475,Gallade,4,1.6,52,Psychic,Fighting,Steadfast,Sharpness,Justified,White,Human-Like,Amorphous,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png,3
+476,Probopass,4,1.4,340,Rock,Steel,Sturdy,Magnet Pull,Sand Force,Gray,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/476.png,2
+477,Dusknoir,4,2.2,106.6,Ghost,,Pressure,,Frisk,Black,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/477.png,3
+478,Froslass,4,1.3,26.6,Ice,Ghost,Snow Cloak,,Cursed Body,White,Fairy,Mineral,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/478.png,2
+479,Rotom,4,0.3,0.3,Electric,Ghost,Levitate,,,Red,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/479.png,1
+480,Uxie,4,0.3,0.3,Psychic,,Levitate,,,Yellow,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/480.png,1
+481,Mesprit,4,0.3,0.3,Psychic,,Levitate,,,Pink,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/481.png,1
+482,Azelf,4,0.3,0.3,Psychic,,Levitate,,,Blue,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/482.png,1
+483,Dialga,4,5.4,683,Steel,Dragon,Pressure,,Telepathy,White,Undiscovered,,Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png,1
+484,Palkia,4,4.2,336,Water,Dragon,Pressure,,Telepathy,Purple,Undiscovered,,Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png,1
+485,Heatran,4,1.7,430,Fire,Steel,Flash Fire,,Flame Body,Brown,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/485.png,1
+486,Regigigas,4,3.7,420,Normal,,Slow Start,,,White,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/486.png,1
+487,Giratina,4,4.5,750,Ghost,Dragon,Pressure,,Telepathy,Black,Undiscovered,,Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png,1
+488,Cresselia,4,1.5,85.6,Psychic,,Levitate,,,Yellow,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/488.png,1
+489,Phione,4,0.4,3.1,Water,,Hydration,,,Blue,Water1,Fairy,Mythical,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/489.png,1
+490,Manaphy,4,0.3,1.4,Water,,Hydration,,,Blue,Water1,Fairy,Mythical,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/490.png,2
+491,Darkrai,4,1.5,50.5,Dark,,Bad Dreams,,,Black,Undiscovered,,Mythical,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png,1
+492,Shaymin,4,0.2,2.1,Grass,,Natural Cure,,,Green,Undiscovered,,Mythical,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/492.png,1
+493,Arceus,4,3.2,320,Normal,,Multitype,,,White,Undiscovered,,Mythical,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png,1
+494,Victini,5,0.4,4,Psychic,Fire,Victory Star,,,Yellow,Undiscovered,,Mythical,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/494.png,1
+495,Snivy,5,0.6,8.1,Grass,,Overgrow,,Contrary,Green,Ground,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/495.png,1
+496,Servine,5,0.8,16,Grass,,Overgrow,,Contrary,Green,Ground,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/496.png,2
+497,Serperior,5,3.3,63,Grass,,Overgrow,,Contrary,Green,Ground,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/497.png,3
+498,Tepig,5,0.5,9.9,Fire,,Blaze,,Thick Fat,Red,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/498.png,1
+499,Pignite,5,1,55.5,Fire,Fighting,Blaze,,Thick Fat,Red,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/499.png,2
+500,Emboar,5,1.6,150,Fire,Fighting,Blaze,,Reckless,Red,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png,3
+501,Oshawott,5,0.5,5.9,Water,,Torrent,,Shell Armor,Blue,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/501.png,1
+502,Dewott,5,0.8,24.5,Water,,Torrent,,Shell Armor,Blue,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/502.png,2
+503,Samurott,5,1.5,94.6,Water,,Torrent,,Shell Armor,Blue,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/503.png,3
+504,Patrat,5,0.5,11.6,Normal,,Run Away,Keen Eye,Analytic,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/504.png,1
+505,Watchog,5,1.1,27,Normal,,Illuminate,Keen Eye,Analytic,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/505.png,2
+506,Lillipup,5,0.4,4.1,Normal,,Vital Spirit,Pickup,Run Away,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/506.png,1
+507,Herdier,5,0.9,14.7,Normal,,Intimidate,Sand Rush,Scrappy,Gray,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/507.png,2
+508,Stoutland,5,1.2,61,Normal,,Intimidate,Sand Rush,Scrappy,Gray,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/508.png,3
+509,Purrloin,5,0.4,10.1,Dark,,Limber,Unburden,Prankster,Purple,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/509.png,1
+510,Liepard,5,1.1,37.5,Dark,,Limber,Unburden,Prankster,Purple,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/510.png,2
+511,Pansage,5,0.6,10.5,Grass,,Gluttony,,Overgrow,Green,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/511.png,1
+512,Simisage,5,1.1,30.5,Grass,,Gluttony,,Overgrow,Green,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/512.png,2
+513,Pansear,5,0.6,11,Fire,,Gluttony,,Blaze,Red,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/513.png,1
+514,Simisear,5,1,28,Fire,,Gluttony,,Blaze,Red,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png,2
+515,Panpour,5,0.6,13.5,Water,,Gluttony,,Torrent,Blue,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/515.png,1
+516,Simipour,5,1,29,Water,,Gluttony,,Torrent,Blue,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png,2
+517,Munna,5,0.6,23.3,Psychic,,Forewarn,Synchronize,Telepathy,Pink,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/517.png,1
+518,Musharna,5,1.1,60.5,Psychic,,Forewarn,Synchronize,Telepathy,Pink,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png,2
+519,Pidove,5,0.3,2.1,Normal,Flying,Big Pecks,Super Luck,Rivalry,Gray,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/519.png,1
+520,Tranquill,5,0.6,15,Normal,Flying,Big Pecks,Super Luck,Rivalry,Gray,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/520.png,2
+521,Unfezant,5,1.2,29,Normal,Flying,Big Pecks,Super Luck,Rivalry,Gray,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/521.png,3
+522,Blitzle,5,0.8,29.8,Electric,,Lightning Rod,Motor Drive,Sap Sipper,Black,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/522.png,1
+523,Zebstrika,5,1.6,79.5,Electric,,Lightning Rod,Motor Drive,Sap Sipper,Black,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/523.png,2
+524,Roggenrola,5,0.4,18,Rock,,Sturdy,Weak Armor,Sand Force,Blue,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/524.png,1
+525,Boldore,5,0.9,102,Rock,,Sturdy,Weak Armor,Sand Force,Blue,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/525.png,2
+526,Gigalith,5,1.7,260,Rock,,Sturdy,Sand Stream,Sand Force,Blue,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/526.png,3
+527,Woobat,5,0.4,2.1,Psychic,Flying,Unaware,Klutz,Simple,Blue,Ground,Flying,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/527.png,1
+528,Swoobat,5,0.9,10.5,Psychic,Flying,Unaware,Klutz,Simple,Blue,Ground,Flying,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/528.png,2
+529,Drilbur,5,0.3,8.5,Ground,,Sand Rush,Sand Force,Mold Breaker,Gray,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png,1
+530,Excadrill,5,0.7,40.4,Ground,Steel,Sand Rush,Sand Force,Mold Breaker,Gray,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png,2
+531,Audino,5,1.1,31,Normal,,Healer,Regenerator,Klutz,Pink,Fairy,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/531.png,1
+532,Timburr,5,0.6,12.5,Fighting,,Guts,Sheer Force,Iron Fist,Gray,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png,1
+533,Gurdurr,5,1.2,40,Fighting,,Guts,Sheer Force,Iron Fist,Gray,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png,2
+534,Conkeldurr,5,1.4,87,Fighting,,Guts,Sheer Force,Iron Fist,Brown,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/534.png,3
+535,Tympole,5,0.5,4.5,Water,,Swift Swim,Hydration,Water Absorb,Blue,Water1,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/535.png,1
+536,Palpitoad,5,0.8,17,Water,Ground,Swift Swim,Hydration,Water Absorb,Blue,Water1,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/536.png,2
+537,Seismitoad,5,1.5,62,Water,Ground,Swift Swim,Poison Touch,Water Absorb,Blue,Water1,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/537.png,3
+538,Throh,5,1.3,55.5,Fighting,,Guts,Inner Focus,Mold Breaker,Red,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/538.png,1
+539,Sawk,5,1.4,51,Fighting,,Sturdy,Inner Focus,Mold Breaker,Blue,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/539.png,1
+540,Sewaddle,5,0.3,2.5,Bug,Grass,Swarm,Chlorophyll,Overcoat,Yellow,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/540.png,1
+541,Swadloon,5,0.5,7.3,Bug,Grass,Leaf Guard,Chlorophyll,Overcoat,Green,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/541.png,2
+542,Leavanny,5,1.2,20.5,Bug,Grass,Swarm,Chlorophyll,Overcoat,Yellow,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/542.png,3
+543,Venipede,5,0.4,5.3,Bug,Poison,Poison Point,Swarm,Speed Boost,Red,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/543.png,1
+544,Whirlipede,5,1.2,58.5,Bug,Poison,Poison Point,Swarm,Speed Boost,Gray,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/544.png,2
+545,Scolipede,5,2.5,200.5,Bug,Poison,Poison Point,Swarm,Speed Boost,Red,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png,3
+546,Cottonee,5,0.3,0.6,Grass,Fairy,Prankster,Infiltrator,Chlorophyll,Green,Grass,Fairy,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/546.png,1
+547,Whimsicott,5,0.7,6.6,Grass,Fairy,Prankster,Infiltrator,Chlorophyll,Green,Grass,Fairy,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/547.png,2
+548,Petilil,5,0.5,6.6,Grass,,Chlorophyll,Own Tempo,Leaf Guard,Green,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/548.png,1
+549,Lilligant,5,1.1,16.3,Grass,,Chlorophyll,Own Tempo,Leaf Guard,Green,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/549.png,2
+550,Basculin,5,1,18,Water,,Reckless,Adaptability,Mold Breaker,Green,Water2,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png,1
+551,Sandile,5,0.7,15.2,Ground,Dark,Intimidate,Moxie,Anger Point,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/551.png,1
+552,Krokorok,5,1,33.4,Ground,Dark,Intimidate,Moxie,Anger Point,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/552.png,2
+553,Krookodile,5,1.5,96.3,Ground,Dark,Intimidate,Moxie,Anger Point,Red,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/553.png,3
+554,Darumaka,5,0.6,37.5,Fire,,Hustle,,Inner Focus,Red,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/554.png,1
+555,Darmanitan,5,1.3,92.9,Fire,,Sheer Force,,Zen Mode,Red,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/555.png,2
+556,Maractus,5,1,28,Grass,,Water Absorb,Chlorophyll,Storm Drain,Green,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/556.png,1
+557,Dwebble,5,0.3,14.5,Bug,Rock,Sturdy,Shell Armor,Weak Armor,Red,Bug,Mineral,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/557.png,1
+558,Crustle,5,1.4,200,Bug,Rock,Sturdy,Shell Armor,Weak Armor,Red,Bug,Mineral,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/558.png,2
+559,Scraggy,5,0.6,11.8,Dark,Fighting,Shed Skin,Moxie,Intimidate,Yellow,Ground,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png,1
+560,Scrafty,5,1.1,30,Dark,Fighting,Shed Skin,Moxie,Intimidate,Red,Ground,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/560.png,2
+561,Sigilyph,5,1.4,14,Psychic,Flying,Wonder Skin,Magic Guard,Tinted Lens,Black,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/561.png,1
+562,Yamask,5,0.5,1.5,Ghost,,Mummy,,,Black,Mineral,Amorphous,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/562.png,1
+563,Cofagrigus,5,1.7,76.5,Ghost,,Mummy,,,Yellow,Mineral,Amorphous,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png,2
+564,Tirtouga,5,0.7,16.5,Water,Rock,Solid Rock,Sturdy,Swift Swim,Blue,Water1,Water3,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/564.png,1
+565,Carracosta,5,1.2,81,Water,Rock,Solid Rock,Sturdy,Swift Swim,Blue,Water1,Water3,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/565.png,2
+566,Archen,5,0.5,9.5,Rock,Flying,Defeatist,,,Yellow,Flying,Water3,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/566.png,1
+567,Archeops,5,1.4,32,Rock,Flying,Defeatist,,,Yellow,Flying,Water3,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/567.png,2
+568,Trubbish,5,0.6,31,Poison,,Stench,Sticky Hold,Aftermath,Green,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/568.png,1
+569,Garbodor,5,1.9,107.3,Poison,,Stench,Weak Armor,Aftermath,Green,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/569.png,2
+570,Zorua,5,0.7,12.5,Dark,,Illusion,,,Gray,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/570.png,1
+571,Zoroark,5,1.6,81.1,Dark,,Illusion,,,Gray,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/571.png,2
+572,Minccino,5,0.4,5.8,Normal,,Cute Charm,Technician,Skill Link,Gray,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/572.png,1
+573,Cinccino,5,0.5,7.5,Normal,,Cute Charm,Technician,Skill Link,Gray,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png,2
+574,Gothita,5,0.4,5.8,Psychic,,Frisk,Competitive,Shadow Tag,Purple,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/574.png,1
+575,Gothorita,5,0.7,18,Psychic,,Frisk,Competitive,Shadow Tag,Purple,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png,2
+576,Gothitelle,5,1.5,44,Psychic,,Frisk,Competitive,Shadow Tag,Purple,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/576.png,3
+577,Solosis,5,0.3,1,Psychic,,Overcoat,Magic Guard,Regenerator,Green,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/577.png,1
+578,Duosion,5,0.6,8,Psychic,,Overcoat,Magic Guard,Regenerator,Green,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png,2
+579,Reuniclus,5,1,20.1,Psychic,,Overcoat,Magic Guard,Regenerator,Green,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/579.png,3
+580,Ducklett,5,0.5,5.5,Water,Flying,Keen Eye,Big Pecks,Hydration,Blue,Water1,Flying,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/580.png,1
+581,Swanna,5,1.3,24.2,Water,Flying,Keen Eye,Big Pecks,Hydration,White,Water1,Flying,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/581.png,2
+582,Vanillite,5,0.4,5.7,Ice,,Ice Body,Snow Cloak,Weak Armor,White,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/582.png,1
+583,Vanillish,5,1.1,41,Ice,,Ice Body,Snow Cloak,Weak Armor,White,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/583.png,2
+584,Vanilluxe,5,1.3,57.5,Ice,,Ice Body,Snow Warning,Weak Armor,White,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/584.png,3
+585,Deerling,5,0.6,19.5,Normal,Grass,Chlorophyll,Sap Sipper,Serene Grace,Pink,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/585.png,1
+586,Sawsbuck,5,1.9,92.5,Normal,Grass,Chlorophyll,Sap Sipper,Serene Grace,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/586.png,2
+587,Emolga,5,0.4,5,Electric,Flying,Static,,Motor Drive,White,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/587.png,1
+588,Karrablast,5,0.5,5.9,Bug,,Swarm,Shed Skin,No Guard,Blue,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/588.png,1
+589,Escavalier,5,1,33,Bug,Steel,Swarm,Shell Armor,Overcoat,Gray,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/589.png,2
+590,Foongus,5,0.2,1,Grass,Poison,Effect Spore,,Regenerator,White,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/590.png,1
+591,Amoonguss,5,0.6,10.5,Grass,Poison,Effect Spore,,Regenerator,White,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/591.png,2
+592,Frillish,5,1.2,33,Water,Ghost,Water Absorb,Cursed Body,Damp,White,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/592.png,1
+593,Jellicent,5,2.2,135,Water,Ghost,Water Absorb,Cursed Body,Damp,White,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/593.png,2
+594,Alomomola,5,1.2,31.6,Water,,Healer,Hydration,Regenerator,Pink,Water1,Water2,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png,1
+595,Joltik,5,0.1,0.6,Bug,Electric,Compound Eyes,Unnerve,Swarm,Yellow,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/595.png,1
+596,Galvantula,5,0.8,14.3,Bug,Electric,Compound Eyes,Unnerve,Swarm,Yellow,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/596.png,2
+597,Ferroseed,5,0.6,18.8,Grass,Steel,Iron Barbs,,,Gray,Grass,Mineral,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png,1
+598,Ferrothorn,5,1,110,Grass,Steel,Iron Barbs,,Anticipation,Gray,Grass,Mineral,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/598.png,2
+599,Klink,5,0.3,21,Steel,,Plus,Minus,Clear Body,Gray,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png,1
+600,Klang,5,0.6,51,Steel,,Plus,Minus,Clear Body,Gray,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/600.png,2
+601,Klinklang,5,0.6,81,Steel,,Plus,Minus,Clear Body,Gray,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/601.png,3
+602,Tynamo,5,0.2,0.3,Electric,,Levitate,,,White,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/602.png,1
+603,Eelektrik,5,1.2,22,Electric,,Levitate,,,Blue,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/603.png,2
+604,Eelektross,5,2.1,80.5,Electric,,Levitate,,,Blue,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/604.png,3
+605,Elgyem,5,0.5,9,Psychic,,Telepathy,Synchronize,Analytic,Blue,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/605.png,1
+606,Beheeyem,5,1,34.5,Psychic,,Telepathy,Synchronize,Analytic,Brown,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/606.png,2
+607,Litwick,5,0.3,3.1,Ghost,Fire,Flash Fire,Flame Body,Infiltrator,White,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png,1
+608,Lampent,5,0.6,13,Ghost,Fire,Flash Fire,Flame Body,Infiltrator,Black,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/608.png,2
+609,Chandelure,5,1,34.3,Ghost,Fire,Flash Fire,Flame Body,Infiltrator,Black,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png,3
+610,Axew,5,0.6,18,Dragon,,Rivalry,Mold Breaker,Unnerve,Green,Monster,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/610.png,1
+611,Fraxure,5,1,36,Dragon,,Rivalry,Mold Breaker,Unnerve,Green,Monster,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png,2
+612,Haxorus,5,1.8,105.5,Dragon,,Rivalry,Mold Breaker,Unnerve,Yellow,Monster,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png,3
+613,Cubchoo,5,0.5,8.5,Ice,,Snow Cloak,Slush Rush,Rattled,White,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/613.png,1
+614,Beartic,5,2.6,260,Ice,,Snow Cloak,Slush Rush,Swift Swim,White,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/614.png,2
+615,Cryogonal,5,1.1,148,Ice,,Levitate,,,Blue,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/615.png,1
+616,Shelmet,5,0.4,7.7,Bug,,Hydration,Shell Armor,Overcoat,Red,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png,1
+617,Accelgor,5,0.8,25.3,Bug,,Hydration,Sticky Hold,Unburden,Red,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/617.png,2
+618,Stunfisk,5,0.7,11,Ground,Electric,Static,Limber,Sand Veil,Brown,Water1,Amorphous,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/618.png,1
+619,Mienfoo,5,0.9,20,Fighting,,Inner Focus,Regenerator,Reckless,Yellow,Ground,Human-Like,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/619.png,1
+620,Mienshao,5,1.4,35.5,Fighting,,Inner Focus,Regenerator,Reckless,Purple,Ground,Human-Like,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/620.png,2
+621,Druddigon,5,1.6,139,Dragon,,Rough Skin,Sheer Force,Mold Breaker,Red,Dragon,Monster,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png,1
+622,Golett,5,1,92,Ground,Ghost,Iron Fist,Klutz,No Guard,Green,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png,1
+623,Golurk,5,2.8,330,Ground,Ghost,Iron Fist,Klutz,No Guard,Green,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/623.png,2
+624,Pawniard,5,0.5,10.2,Dark,Steel,Defiant,Inner Focus,Pressure,Red,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/624.png,1
+625,Bisharp,5,1.6,70,Dark,Steel,Defiant,Inner Focus,Pressure,Red,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/625.png,2
+626,Bouffalant,5,1.6,94.6,Normal,,Reckless,Sap Sipper,Soundproof,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/626.png,1
+627,Rufflet,5,0.5,10.5,Normal,Flying,Keen Eye,Sheer Force,Hustle,White,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/627.png,1
+628,Braviary,5,1.5,41,Normal,Flying,Keen Eye,Sheer Force,Defiant,Red,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/628.png,2
+629,Vullaby,5,0.5,9,Dark,Flying,Big Pecks,Overcoat,Weak Armor,Brown,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/629.png,1
+630,Mandibuzz,5,1.2,39.5,Dark,Flying,Big Pecks,Overcoat,Weak Armor,Brown,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png,2
+631,Heatmor,5,1.4,58,Fire,,Gluttony,Flash Fire,White Smoke,Red,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/631.png,1
+632,Durant,5,0.3,33,Bug,Steel,Swarm,Hustle,Truant,Gray,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/632.png,1
+633,Deino,5,0.8,17.3,Dark,Dragon,Hustle,,,Blue,Dragon,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png,1
+634,Zweilous,5,1.4,50,Dark,Dragon,Hustle,,,Blue,Dragon,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/634.png,2
+635,Hydreigon,5,1.8,160,Dark,Dragon,Levitate,,,Blue,Dragon,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/635.png,3
+636,Larvesta,5,1.1,28.8,Bug,Fire,Flame Body,,Swarm,White,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png,1
+637,Volcarona,5,1.6,46,Bug,Fire,Flame Body,,Swarm,White,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png,2
+638,Cobalion,5,2.1,250,Steel,Fighting,Justified,,,Blue,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/638.png,1
+639,Terrakion,5,1.9,260,Rock,Fighting,Justified,,,Gray,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/639.png,1
+640,Virizion,5,2,200,Grass,Fighting,Justified,,,Green,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/640.png,1
+641,Tornadus,5,1.5,63,Flying,,Prankster,,Defiant,Green,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/641.png,1
+642,Thundurus,5,1.5,61,Electric,Flying,Prankster,,Defiant,Blue,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/642.png,1
+643,Reshiram,5,3.2,330,Dragon,Fire,Turboblaze,,,White,Undiscovered,,Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/643.png,1
+644,Zekrom,5,2.9,345,Dragon,Electric,Teravolt,,,Black,Undiscovered,,Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png,1
+645,Landorus,5,1.5,68,Ground,Flying,Sand Force,,Sheer Force,Brown,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/645.png,1
+646,Kyurem,5,3,325,Dragon,Ice,Pressure,,,Gray,Undiscovered,,Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/646.png,1
+647,Keldeo,5,1.4,48.5,Water,Fighting,Justified,,,Yellow,Undiscovered,,Mythical,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/647.png,1
+648,Meloetta,5,0.6,6.5,Normal,Psychic,Serene Grace,,,White,Undiscovered,,Mythical,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/648.png,1
+649,Genesect,5,1.5,82.5,Bug,Steel,Download,,,Purple,Undiscovered,,Mythical,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/649.png,1
+650,Chespin,6,0.4,9,Grass,,Overgrow,,Bulletproof,Green,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/650.png,1
+651,Quilladin,6,0.7,29,Grass,,Overgrow,,Bulletproof,Green,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png,2
+652,Chesnaught,6,1.6,90,Grass,Fighting,Overgrow,,Bulletproof,Green,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/652.png,3
+653,Fennekin,6,0.4,9.4,Fire,,Blaze,,Magician,Red,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png,1
+654,Braixen,6,1,14.5,Fire,,Blaze,,Magician,Red,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/654.png,2
+655,Delphox,6,1.5,39,Fire,Psychic,Blaze,,Magician,Red,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/655.png,3
+656,Froakie,6,0.3,7,Water,,Torrent,,Protean,Blue,Water1,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png,1
+657,Frogadier,6,0.6,10.9,Water,,Torrent,,Protean,Blue,Water1,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/657.png,2
+658,Greninja,6,1.5,40,Water,Dark,Torrent,,Protean,Blue,Water1,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png,3
+659,Bunnelby,6,0.4,5,Normal,,Pickup,Cheek Pouch,Huge Power,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/659.png,1
+660,Diggersby,6,1,42.4,Normal,Ground,Pickup,Cheek Pouch,Huge Power,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png,2
+661,Fletchling,6,0.3,1.7,Normal,Flying,Big Pecks,,Gale Wings,Red,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/661.png,1
+662,Fletchinder,6,0.7,16,Fire,Flying,Flame Body,,Gale Wings,Red,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/662.png,2
+663,Talonflame,6,1.2,24.5,Fire,Flying,Flame Body,,Gale Wings,Red,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png,3
+664,Scatterbug,6,0.3,2.5,Bug,,Shield Dust,Compound Eyes,Friend Guard,Black,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png,1
+665,Spewpa,6,0.3,8.4,Bug,,Shed Skin,,Friend Guard,Black,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/665.png,2
+666,Vivillon,6,1.2,17,Bug,Flying,Shield Dust,Compound Eyes,Friend Guard,White,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/666.png,3
+667,Litleo,6,0.6,13.5,Fire,Normal,Rivalry,Unnerve,Moxie,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/667.png,1
+668,Pyroar,6,1.5,81.5,Fire,Normal,Rivalry,Unnerve,Moxie,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/668.png,2
+669,Flabebe,6,0.1,0.1,Fairy,,Flower Veil,,Symbiosis,White,Fairy,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png,1
+670,Floette,6,0.2,0.9,Fairy,,Flower Veil,,Symbiosis,White,Fairy,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/670.png,2
+671,Florges,6,1.1,10,Fairy,,Flower Veil,,Symbiosis,White,Fairy,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png,3
+672,Skiddo,6,0.9,31,Grass,,Sap Sipper,,Grass Pelt,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/672.png,1
+673,Gogoat,6,1.7,91,Grass,,Sap Sipper,,Grass Pelt,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png,2
+674,Pancham,6,0.6,8,Fighting,,Iron Fist,Mold Breaker,Scrappy,White,Ground,Human-Like,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/674.png,1
+675,Pangoro,6,2.1,136,Fighting,Dark,Iron Fist,Mold Breaker,Scrappy,White,Ground,Human-Like,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/675.png,2
+676,Furfrou,6,1.2,28,Normal,,Fur Coat,,,White,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/676.png,1
+677,Espurr,6,0.3,3.5,Psychic,,Keen Eye,Infiltrator,Own Tempo,Gray,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/677.png,1
+678,Meowstic,6,0.6,8.5,Psychic,,Keen Eye,Infiltrator,Prankster,Blue,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/678.png,2
+679,Honedge,6,0.8,2,Steel,Ghost,No Guard,,,Brown,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/679.png,1
+680,Doublade,6,0.8,4.5,Steel,Ghost,No Guard,,,Brown,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png,2
+681,Aegislash,6,1.7,53,Steel,Ghost,Stance Change,,,Brown,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/681.png,3
+682,Spritzee,6,0.2,0.5,Fairy,,Healer,,Aroma Veil,Pink,Fairy,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/682.png,1
+683,Aromatisse,6,0.8,15.5,Fairy,,Healer,,Aroma Veil,Pink,Fairy,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/683.png,2
+684,Swirlix,6,0.4,3.5,Fairy,,Sweet Veil,,Unburden,White,Fairy,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/684.png,1
+685,Slurpuff,6,0.8,5,Fairy,,Sweet Veil,,Unburden,White,Fairy,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/685.png,2
+686,Inkay,6,0.4,3.5,Dark,Psychic,Contrary,Suction Cups,Infiltrator,Blue,Water1,Water2,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/686.png,1
+687,Malamar,6,1.5,47,Dark,Psychic,Contrary,Suction Cups,Infiltrator,Blue,Water1,Water2,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/687.png,2
+688,Binacle,6,0.5,31,Rock,Water,Tough Claws,Sniper,Pickpocket,Brown,Water3,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/688.png,1
+689,Barbaracle,6,1.3,96,Rock,Water,Tough Claws,Sniper,Pickpocket,Brown,Water3,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/689.png,2
+690,Skrelp,6,0.5,7.3,Poison,Water,Poison Point,Poison Touch,Adaptability,Brown,Water1,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png,1
+691,Dragalge,6,1.8,81.5,Poison,Dragon,Poison Point,Poison Touch,Adaptability,Brown,Water1,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/691.png,2
+692,Clauncher,6,0.5,8.3,Water,,Mega Launcher,,,Blue,Water1,Water3,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/692.png,1
+693,Clawitzer,6,1.3,35.3,Water,,Mega Launcher,,,Blue,Water1,Water3,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/693.png,2
+694,Helioptile,6,0.5,6,Electric,Normal,Dry Skin,Sand Veil,Solar Power,Yellow,Monster,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/694.png,1
+695,Heliolisk,6,1,21,Electric,Normal,Dry Skin,Sand Veil,Solar Power,Yellow,Monster,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png,2
+696,Tyrunt,6,0.8,26,Rock,Dragon,Strong Jaw,,Sturdy,Brown,Monster,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/696.png,1
+697,Tyrantrum,6,2.5,270,Rock,Dragon,Strong Jaw,,Rock Head,Red,Monster,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png,2
+698,Amaura,6,1.3,25.2,Rock,Ice,Refrigerate,,Snow Warning,Blue,Monster,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/698.png,1
+699,Aurorus,6,2.7,225,Rock,Ice,Refrigerate,,Snow Warning,Blue,Monster,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png,2
+700,Sylveon,6,1,23.5,Fairy,,Cute Charm,,Pixilate,Pink,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png,2
+701,Hawlucha,6,0.8,21.5,Fighting,Flying,Limber,Unburden,Mold Breaker,Green,Flying,Human-Like,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/701.png,1
+702,Dedenne,6,0.2,2.2,Electric,Fairy,Cheek Pouch,Pickup,Plus,Yellow,Ground,Fairy,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png,1
+703,Carbink,6,0.3,5.7,Rock,Fairy,Clear Body,,Sturdy,Gray,Fairy,Mineral,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/703.png,1
+704,Goomy,6,0.3,2.8,Dragon,,Sap Sipper,Hydration,Gooey,Purple,Dragon,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png,1
+705,Sliggoo,6,0.8,17.5,Dragon,,Sap Sipper,Hydration,Gooey,Purple,Dragon,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png,2
+706,Goodra,6,2,150.5,Dragon,,Sap Sipper,Hydration,Gooey,Purple,Dragon,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png,3
+707,Klefki,6,0.2,3,Steel,Fairy,Prankster,,Magician,Gray,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/707.png,1
+708,Phantump,6,0.4,7,Ghost,Grass,Natural Cure,Frisk,Harvest,Brown,Grass,Amorphous,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/708.png,1
+709,Trevenant,6,1.5,71,Ghost,Grass,Natural Cure,Frisk,Harvest,Brown,Grass,Amorphous,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png,2
+710,Pumpkaboo,6,0.4,5,Ghost,Grass,Pickup,Frisk,Insomnia,Brown,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/710.png,1
+711,Gourgeist,6,0.9,12.5,Ghost,Grass,Pickup,Frisk,Insomnia,Brown,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/711.png,2
+712,Bergmite,6,1,99.5,Ice,,Own Tempo,Ice Body,Sturdy,Blue,Monster,Mineral,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/712.png,1
+713,Avalugg,6,2,505,Ice,,Own Tempo,Ice Body,Sturdy,Blue,Monster,Mineral,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/713.png,2
+714,Noibat,6,0.5,8,Flying,Dragon,Frisk,Infiltrator,Telepathy,Purple,Flying,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/714.png,1
+715,Noivern,6,1.5,85,Flying,Dragon,Frisk,Infiltrator,Telepathy,Purple,Flying,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/715.png,2
+716,Xerneas,6,3,215,Fairy,,Fairy Aura,,,Blue,Undiscovered,,Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/716.png,1
+717,Yveltal,6,5.8,203,Dark,Flying,Dark Aura,,,Red,Undiscovered,,Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/717.png,1
+718,Zygarde,6,5,305,Dragon,Ground,Aura Break,,,Green,Undiscovered,,Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/718.png,1
+719,Diancie,6,0.7,8.8,Rock,Fairy,Clear Body,,,Pink,Undiscovered,,Mythical,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/719.png,1
+720,Hoopa,6,0.5,9,Psychic,Ghost,Magician,,,Purple,Undiscovered,,Mythical,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/720.png,1
+721,Volcanion,6,1.7,195,Fire,Water,Water Absorb,,,Brown,Undiscovered,,Mythical,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/721.png,1
+722,Rowlet,7,0.3,1.5,Grass,Flying,Overgrow,,Long Reach,Brown,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/722.png,1
+723,Dartrix,7,0.7,16,Grass,Flying,Overgrow,,Long Reach,Brown,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png,2
+724,Decidueye,7,1.6,36.6,Grass,Ghost,Overgrow,,Long Reach,Brown,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/724.png,3
+725,Litten,7,0.4,4.3,Fire,,Blaze,,Intimidate,Red,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/725.png,1
+726,Torracat,7,0.7,25,Fire,,Blaze,,Intimidate,Red,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/726.png,2
+727,Incineroar,7,1.8,83,Fire,Dark,Blaze,,Intimidate,Red,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/727.png,3
+728,Popplio,7,0.4,7.5,Water,,Torrent,,Liquid Voice,Blue,Water1,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/728.png,1
+729,Brionne,7,0.6,17.5,Water,,Torrent,,Liquid Voice,Blue,Water1,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/729.png,2
+730,Primarina,7,1.8,44,Water,Fairy,Torrent,,Liquid Voice,Blue,Water1,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/730.png,3
+731,Pikipek,7,0.3,1.2,Normal,Flying,Keen Eye,Skill Link,Pickup,Black,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png,1
+732,Trumbeak,7,0.6,14.8,Normal,Flying,Keen Eye,Skill Link,Pickup,Black,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/732.png,2
+733,Toucannon,7,1.1,26,Normal,Flying,Keen Eye,Skill Link,Sheer Force,Black,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png,3
+734,Yungoos,7,0.4,6,Normal,,Stakeout,Strong Jaw,Adaptability,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/734.png,1
+735,Gumshoos,7,0.7,14.2,Normal,,Stakeout,Strong Jaw,Adaptability,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/735.png,2
+736,Grubbin,7,0.4,4.4,Bug,,Swarm,,,Gray,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/736.png,1
+737,Charjabug,7,0.5,10.5,Bug,Electric,Battery,,,Green,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/737.png,2
+738,Vikavolt,7,1.5,45,Bug,Electric,Levitate,,,Blue,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/738.png,3
+739,Crabrawler,7,0.6,7,Fighting,,Hyper Cutter,Iron Fist,Anger Point,Purple,Water3,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/739.png,1
+740,Crabominable,7,1.7,180,Fighting,Ice,Hyper Cutter,Iron Fist,Anger Point,White,Water3,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/740.png,2
+741,Oricorio,7,0.6,3.4,Fire,Flying,Dancer,,,Red,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png,1
+742,Cutiefly,7,0.1,0.2,Bug,Fairy,Honey Gather,Shield Dust,Sweet Veil,Yellow,Bug,Fairy,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png,1
+743,Ribombee,7,0.2,0.5,Bug,Fairy,Honey Gather,Shield Dust,Sweet Veil,Yellow,Bug,Fairy,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/743.png,2
+744,Rockruff,7,0.5,9.2,Rock,,Keen Eye,Vital Spirit,Steadfast,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/744.png,1
+745,Lycanroc,7,0.8,25,Rock,,Keen Eye,Sand Rush,Steadfast,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/745.png,2
+746,Wishiwashi,7,0.2,0.3,Water,,Schooling,,,Blue,Water2,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/746.png,1
+747,Mareanie,7,0.4,8,Poison,Water,Merciless,Limber,Regenerator,Blue,Water1,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/747.png,1
+748,Toxapex,7,0.7,14.5,Poison,Water,Merciless,Limber,Regenerator,Blue,Water1,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png,2
+749,Mudbray,7,1,110,Ground,,Own Tempo,Stamina,Inner Focus,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/749.png,1
+750,Mudsdale,7,2.5,920,Ground,,Own Tempo,Stamina,Inner Focus,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png,2
+751,Dewpider,7,0.3,4,Water,Bug,Water Bubble,,Water Absorb,Green,Water1,Bug,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png,1
+752,Araquanid,7,1.8,82,Water,Bug,Water Bubble,,Water Absorb,Green,Water1,Bug,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/752.png,2
+753,Fomantis,7,0.3,1.5,Grass,,Leaf Guard,,Contrary,Pink,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/753.png,1
+754,Lurantis,7,0.9,18.5,Grass,,Leaf Guard,,Contrary,Pink,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/754.png,2
+755,Morelull,7,0.2,1.5,Grass,Fairy,Illuminate,Effect Spore,Rain Dish,Purple,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/755.png,1
+756,Shiinotic,7,1,11.5,Grass,Fairy,Illuminate,Effect Spore,Rain Dish,Purple,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/756.png,2
+757,Salandit,7,0.6,4.8,Poison,Fire,Corrosion,,Oblivious,Black,Monster,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/757.png,1
+758,Salazzle,7,1.2,22.2,Poison,Fire,Corrosion,,Oblivious,Black,Monster,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/758.png,2
+759,Stufful,7,0.5,6.8,Normal,Fighting,Fluffy,Klutz,Cute Charm,Pink,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/759.png,1
+760,Bewear,7,2.1,135,Normal,Fighting,Fluffy,Klutz,Unnerve,Pink,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png,2
+761,Bounsweet,7,0.3,3.2,Grass,,Leaf Guard,Oblivious,Sweet Veil,Purple,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/761.png,1
+762,Steenee,7,0.7,8.2,Grass,,Leaf Guard,Oblivious,Sweet Veil,Purple,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/762.png,2
+763,Tsareena,7,1.2,21.4,Grass,,Leaf Guard,Queenly Majesty,Sweet Veil,Purple,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/763.png,3
+764,Comfey,7,0.1,0.3,Fairy,,Flower Veil,Triage,Natural Cure,Green,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/764.png,1
+765,Oranguru,7,1.5,76,Normal,Psychic,Inner Focus,Telepathy,Symbiosis,White,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/765.png,1
+766,Passimian,7,2,82.8,Fighting,,Receiver,,Defiant,White,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/766.png,1
+767,Wimpod,7,0.5,12,Bug,Water,Wimp Out,,,Gray,Bug,Water3,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/767.png,1
+768,Golisopod,7,2,108,Bug,Water,Emergency Exit,,,Gray,Bug,Water3,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/768.png,2
+769,Sandygast,7,0.5,70,Ghost,Ground,Water Compaction,,Sand Veil,Brown,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/769.png,1
+770,Palossand,7,1.3,250,Ghost,Ground,Water Compaction,,Sand Veil,Brown,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/770.png,2
+771,Pyukumuku,7,0.3,1.2,Water,,Innards Out,,Unaware,Black,Water1,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/771.png,1
+772,Type: Null,7,1.9,120.5,Normal,,Battle Armor,,,Gray,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/772.png,1
+773,Silvally,7,2.3,100.5,Normal,,RKS System,,,Gray,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/773.png,2
+774,Minior,7,0.3,40,Rock,Flying,Shields Down,,,Brown,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/774.png,1
+775,Komala,7,0.4,19.9,Normal,,Comatose,,,Blue,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/775.png,1
+776,Turtonator,7,2,212,Fire,Dragon,Shell Armor,,,Red,Monster,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png,1
+777,Togedemaru,7,0.3,3.3,Electric,Steel,Iron Barbs,Lightning Rod,Sturdy,Gray,Ground,Fairy,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/777.png,1
+778,Mimikyu,7,0.2,0.7,Ghost,Fairy,Disguise,,,Yellow,Amorphous,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png,1
+779,Bruxish,7,0.9,19,Water,Psychic,Dazzling,Strong Jaw,Wonder Skin,Pink,Water2,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/779.png,1
+780,Drampa,7,3,185,Normal,Dragon,Berserk,Sap Sipper,Cloud Nine,White,Monster,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/780.png,1
+781,Dhelmise,7,3.9,210,Ghost,Grass,Steelworker,,,Green,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/781.png,1
+782,Jangmo-o,7,0.6,29.7,Dragon,,Bulletproof,Soundproof,Overcoat,Gray,Dragon,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/782.png,1
+783,Hakamo-o,7,1.2,47,Dragon,Fighting,Bulletproof,Soundproof,Overcoat,Gray,Dragon,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/783.png,2
+784,Kommo-o,7,1.6,78.2,Dragon,Fighting,Bulletproof,Soundproof,Overcoat,Gray,Dragon,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/784.png,3
+785,Tapu Koko,7,1.8,20.5,Electric,Fairy,Electric Surge,,Telepathy,Yellow,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png,1
+786,Tapu Lele,7,1.2,18.6,Psychic,Fairy,Psychic Surge,,Telepathy,Pink,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png,1
+787,Tapu Bulu,7,1.9,45.5,Grass,Fairy,Grassy Surge,,Telepathy,Red,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/787.png,1
+788,Tapu Fini,7,1.3,21.2,Water,Fairy,Misty Surge,,Telepathy,Purple,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/788.png,1
+789,Cosmog,7,0.2,0.1,Psychic,,Unaware,,,Blue,Undiscovered,,Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/789.png,1
+790,Cosmoem,7,0.1,999.9,Psychic,,Sturdy,,,Blue,Undiscovered,,Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/790.png,2
+791,Solgaleo,7,3.4,230,Psychic,Steel,Full Metal Body,,,White,Undiscovered,,Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/791.png,3
+792,Lunala,7,4,120,Psychic,Ghost,Shadow Shield,,,Purple,Undiscovered,,Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/792.png,3
+793,Nihilego,7,1.2,55.5,Rock,Poison,Beast Boost,,,White,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/793.png,1
+794,Buzzwole,7,2.4,333.6,Bug,Fighting,Beast Boost,,,Red,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/794.png,1
+795,Pheromosa,7,1.8,25,Bug,Fighting,Beast Boost,,,White,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/795.png,1
+796,Xurkitree,7,3.8,100,Electric,,Beast Boost,,,Black,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png,1
+797,Celesteela,7,9.2,999.9,Steel,Flying,Beast Boost,,,Green,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/797.png,1
+798,Kartana,7,0.3,0.1,Grass,Steel,Beast Boost,,,White,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/798.png,1
+799,Guzzlord,7,5.5,888,Dark,Dragon,Beast Boost,,,Black,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/799.png,1
+800,Necrozma,7,2.4,230,Psychic,,Prism Armor,,,Black,Undiscovered,,Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/800.png,1
+801,Magearna,7,1,80.5,Steel,Fairy,Soul-Heart,,,Gray,Undiscovered,,Mythical,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/801.png,1
+802,Marshadow,7,0.7,22.2,Fighting,Ghost,Technician,,,Gray,Undiscovered,,Mythical,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png,1
+803,Poipole,7,0.6,1.8,Poison,,Beast Boost,,,Purple,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/803.png,1
+804,Naganadel,7,3.6,150,Poison,Dragon,Beast Boost,,,Purple,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/804.png,2
+805,Stakataka,7,5.5,820,Rock,Steel,Beast Boost,,,Gray,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/805.png,1
+806,Blacephalon,7,1.8,13,Fire,Ghost,Beast Boost,,,White,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/806.png,1
+807,Zeraora,7,1.5,44.5,Electric,,Volt Absorb,,,Yellow,Undiscovered,,Mythical,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/807.png,1
+808,Meltan,7,0.2,8,Steel,,Magnet Pull,,,Gray,Undiscovered,,Mythical,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/808.png,1
+809,Melmetal,7,2.5,800,Steel,,Iron Fist,,,Gray,Undiscovered,,Mythical,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/809.png,1
+810,Grookey,8,0.3,5,Grass,,Overgrow,,Grassy Surge,Green,Ground,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/810.png,1
+811,Thwackey,8,0.7,14,Grass,,Overgrow,,Grassy Surge,Green,Ground,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/811.png,2
+812,Rillaboom,8,2.1,90,Grass,,Overgrow,,Grassy Surge,Green,Ground,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/812.png,3
+813,Scorbunny,8,0.3,4.5,Fire,,Blaze,,Libero,White,Ground,Human-Like,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/813.png,1
+814,Raboot,8,0.6,9,Fire,,Blaze,,Libero,Gray,Ground,Human-Like,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png,2
+815,Cinderace,8,1.4,33,Fire,,Blaze,,Libero,White,Ground,Human-Like,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png,3
+816,Sobble,8,0.3,4,Water,,Torrent,,Sniper,Blue,Water1,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/816.png,1
+817,Drizzile,8,0.7,11.5,Water,,Torrent,,Sniper,Blue,Water1,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/817.png,2
+818,Inteleon,8,1.9,45.2,Water,,Torrent,,Sniper,Blue,Water1,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/818.png,3
+819,Skwovet,8,0.3,2.5,Normal,,Cheek Pouch,,Gluttony,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png,1
+820,Greedent,8,0.6,6,Normal,,Cheek Pouch,,Gluttony,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/820.png,2
+821,Rookidee,8,0.2,1.8,Flying,,Keen Eye,Unnerve,Big Pecks,Blue,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/821.png,1
+822,Corvisquire,8,0.8,16,Flying,,Keen Eye,Unnerve,Big Pecks,Blue,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/822.png,2
+823,Corviknight,8,2.2,75,Flying,Steel,Pressure,Unnerve,Mirror Armor,Purple,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png,3
+824,Blipbug,8,0.4,8,Bug,,Swarm,Compound Eyes,Telepathy,Blue,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/824.png,1
+825,Dottler,8,0.4,19.5,Bug,Psychic,Swarm,Compound Eyes,Telepathy,Yellow,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/825.png,2
+826,Orbeetle,8,0.4,40.8,Bug,Psychic,Swarm,Frisk,Telepathy,Red,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/826.png,3
+827,Nickit,8,0.6,8.9,Dark,,Run Away,Unburden,Stakeout,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/827.png,1
+828,Thievul,8,1.2,19.9,Dark,,Run Away,Unburden,Stakeout,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/828.png,2
+829,Gossifleur,8,0.4,2.2,Grass,,Cotton Down,Regenerator,Effect Spore,Green,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/829.png,1
+830,Eldegoss,8,0.5,2.5,Grass,,Cotton Down,Regenerator,Effect Spore,Green,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/830.png,2
+831,Wooloo,8,0.6,6,Normal,,Fluffy,Run Away,Bulletproof,White,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/831.png,1
+832,Dubwool,8,1.3,43,Normal,,Fluffy,Steadfast,Bulletproof,White,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/832.png,2
+833,Chewtle,8,0.3,8.5,Water,,Strong Jaw,Shell Armor,Swift Swim,Green,Monster,Water1,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/833.png,1
+834,Drednaw,8,1,115.5,Water,Rock,Strong Jaw,Shell Armor,Swift Swim,Green,Monster,Water1,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png,2
+835,Yamper,8,0.3,13.5,Electric,,Ball Fetch,,Rattled,Yellow,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/835.png,1
+836,Boltund,8,1,34,Electric,,Strong Jaw,,Competitive,Yellow,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/836.png,2
+837,Rolycoly,8,0.3,12,Rock,,Steam Engine,Heatproof,Flash Fire,Black,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png,1
+838,Carkol,8,1.1,78,Rock,Fire,Steam Engine,Flame Body,Flash Fire,Black,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/838.png,2
+839,Coalossal,8,2.8,310.5,Rock,Fire,Steam Engine,Flame Body,Flash Fire,Black,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/839.png,3
+840,Applin,8,0.2,0.5,Grass,Dragon,Ripen,Gluttony,Bulletproof,Green,Grass,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/840.png,1
+841,Flapple,8,0.3,1,Grass,Dragon,Ripen,Gluttony,Hustle,Green,Grass,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/841.png,2
+842,Appletun,8,0.4,13,Grass,Dragon,Ripen,Gluttony,Thick Fat,Green,Grass,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/842.png,2
+843,Silicobra,8,2.2,7.6,Ground,,Sand Spit,Shed Skin,Sand Veil,Green,Ground,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/843.png,1
+844,Sandaconda,8,3.8,65.5,Ground,,Sand Spit,Shed Skin,Sand Veil,Green,Ground,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png,2
+845,Cramorant,8,0.8,18,Flying,Water,Gulp Missile,,,Blue,Water1,Flying,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/845.png,1
+846,Arrokuda,8,0.5,1,Water,,Swift Swim,,Propeller Tail,Brown,Water2,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/846.png,1
+847,Barraskewda,8,1.3,30,Water,,Swift Swim,,Propeller Tail,Brown,Water2,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/847.png,2
+848,Toxel,8,0.4,11,Electric,Poison,Rattled,Static,Klutz,Purple,Undiscovered,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/848.png,1
+849,Toxtricity,8,1.6,40,Electric,Poison,Punk Rock,Plus,Technician,Purple,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png,2
+850,Sizzlipede,8,0.7,1,Fire,Bug,Flash Fire,White Smoke,Flame Body,Red,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/850.png,1
+851,Centiskorch,8,3,120,Fire,Bug,Flash Fire,White Smoke,Flame Body,Red,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/851.png,2
+852,Clobbopus,8,0.6,4,Fighting,,Limber,,Technician,Brown,Water1,Human-Like,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/852.png,1
+853,Grapploct,8,1.6,39,Fighting,,Limber,,Technician,Blue,Water1,Human-Like,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/853.png,2
+854,Sinistea,8,0.1,0.2,Ghost,,Weak Armor,,Cursed Body,Purple,Mineral,Amorphous,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/854.png,1
+855,Polteageist,8,0.2,0.4,Ghost,,Weak Armor,,Cursed Body,Purple,Mineral,Amorphous,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/855.png,2
+856,Hatenna,8,0.4,3.4,Psychic,,Healer,Anticipation,Magic Bounce,Pink,Fairy,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/856.png,1
+857,Hattrem,8,0.6,4.8,Psychic,,Healer,Anticipation,Magic Bounce,Pink,Fairy,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/857.png,2
+858,Hatterene,8,2.1,5.1,Psychic,Fairy,Healer,Anticipation,Magic Bounce,Pink,Fairy,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png,3
+859,Impidimp,8,0.4,5.5,Dark,Fairy,Prankster,Frisk,Pickpocket,Pink,Fairy,Human-Like,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/859.png,1
+860,Morgrem,8,0.8,12.5,Dark,Fairy,Prankster,Frisk,Pickpocket,Pink,Fairy,Human-Like,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/860.png,2
+861,Grimmsnarl,8,1.5,61,Dark,Fairy,Prankster,Frisk,Pickpocket,Purple,Fairy,Human-Like,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/861.png,3
+862,Obstagoon,8,1.6,46,Dark,Normal,Reckless,Guts,Defiant,Gray,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/862.png,3
+863,Perrserker,8,0.8,28,Steel,,Battle Armor,Tough Claws,Steely Spirit,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png,2
+864,Cursola,8,1,0.4,Ghost,,Weak Armor,,Perish Body,White,Water1,Water3,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/864.png,2
+865,Sirfetch'd,8,0.8,117,Fighting,,Steadfast,,Scrappy,White,Flying,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png,2
+866,Mr. Rime,8,1.5,58.2,Ice,Psychic,Tangled Feet,Screen Cleaner,Ice Body,Purple,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/866.png,3
+867,Runerigus,8,1.6,66.6,Ground,Ghost,Wandering Spirit,,,Gray,Mineral,Amorphous,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/867.png,2
+868,Milcery,8,0.2,0.3,Fairy,,Sweet Veil,,Aroma Veil,White,Fairy,Amorphous,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/868.png,1
+869,Alcremie,8,0.3,0.5,Fairy,,Sweet Veil,,Aroma Veil,White,Fairy,Amorphous,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/869.png,2
+870,Falinks,8,3,62,Fighting,,Battle Armor,,Defiant,Yellow,Fairy,Mineral,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png,1
+871,Pincurchin,8,0.3,1,Electric,,Lightning Rod,,Electric Surge,Purple,Water1,Amorphous,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/871.png,1
+872,Snom,8,0.3,3.8,Ice,Bug,Shield Dust,,Ice Scales,White,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/872.png,1
+873,Frosmoth,8,1.3,42,Ice,Bug,Shield Dust,,Ice Scales,White,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/873.png,2
+874,Stonjourner,8,2.5,520,Rock,,Power Spot,,,Gray,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/874.png,1
+875,Eiscue,8,1.4,89,Ice,,Ice Face,,,Blue,Water1,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/875.png,1
+876,Indeedee,8,0.9,28,Psychic,Normal,Inner Focus,Synchronize,Psychic Surge,Purple,Fairy,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/876.png,1
+877,Morpeko,8,0.3,3,Electric,Dark,Hunger Switch,,,Yellow,Ground,Fairy,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/877.png,1
+878,Cufant,8,1.2,100,Steel,,Sheer Force,,Heavy Metal,Yellow,Ground,Mineral,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/878.png,1
+879,Copperajah,8,3,650,Steel,,Sheer Force,,Heavy Metal,Green,Ground,Mineral,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/879.png,2
+880,Dracozolt,8,1.8,190,Electric,Dragon,Volt Absorb,Hustle,Sand Rush,Green,Undiscovered,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png,1
+881,Arctozolt,8,2.3,150,Electric,Ice,Volt Absorb,Static,Slush Rush,Blue,Undiscovered,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/881.png,1
+882,Dracovish,8,2.3,215,Water,Dragon,Water Absorb,Strong Jaw,Sand Rush,Green,Undiscovered,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png,1
+883,Arctovish,8,2,175,Water,Ice,Water Absorb,Ice Body,Slush Rush,Blue,Undiscovered,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/883.png,1
+884,Duraludon,8,1.8,40,Steel,Dragon,Light Metal,Heavy Metal,Stalwart,White,Mineral,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/884.png,1
+885,Dreepy,8,0.5,2,Dragon,Ghost,Clear Body,Infiltrator,Cursed Body,Green,Amorphous,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/885.png,1
+886,Drakloak,8,1.4,11,Dragon,Ghost,Clear Body,Infiltrator,Cursed Body,Green,Amorphous,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/886.png,2
+887,Dragapult,8,3,50,Dragon,Ghost,Clear Body,Infiltrator,Cursed Body,Green,Amorphous,Dragon,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png,3
+888,Zacian,8,2.8,110,Fairy,,Intrepid Sword,,,Blue,Undiscovered,,Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/888.png,1
+889,Zamazenta,8,2.9,210,Fighting,,Dauntless Shield,,,Red,Undiscovered,,Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/889.png,1
+890,Eternatus,8,20,950,Poison,Dragon,Pressure,,,Purple,Undiscovered,,Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/890.png,1
+891,Kubfu,8,0.6,12,Fighting,,Inner Focus,,No Guard,Gray,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/891.png,1
+892,Urshifu,8,1.9,105,Fighting,Dark,Unseen Fist,,,Gray,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/892.png,2
+893,Zarude,8,1.8,70,Dark,Grass,Leaf Guard,,,Green,Undiscovered,,Mythical,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png,1
+894,Regieleki,8,1.2,145,Electric,,Transistor,,,Yellow,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/894.png,1
+895,Regidrago,8,2.1,200,Dragon,,Dragon's Maw,,,Green,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/895.png,1
+896,Glastrier,8,2.2,800,Ice,,Chilling Neigh,,,White,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png,1
+897,Spectrier,8,2,44.5,Ghost,,Grim Neigh,,,Black,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/897.png,1
+898,Calyrex,8,1.1,7.7,Psychic,Grass,Unnerve,,,Green,Undiscovered,,Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png,1
+899,Wyrdeer,8,1.8,95.1,Normal,Psychic,Intimidate,Frisk,Sap Sipper,White,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/899.png,2
+900,Kleavor,8,1.8,89,Bug,Rock,Swarm,Sheer Force,Sharpness,Brown,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/900.png,2
+901,Ursaluna,8,2.4,290,Ground,Normal,Guts,Bulletproof,Unnerve,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/901.png,3
+902,Basculegion,8,3,110,Water,Ghost,Swift Swim,Adaptability,Mold Breaker,Green,Water2,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png,2
+903,Sneasler,8,1.3,43,Fighting,Poison,Pressure,Unburden,Poison Touch,Purple,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/903.png,2
+904,Overqwil,8,2.5,60.5,Dark,Poison,Poison Point,Swift Swim,Intimidate,Gray,Water2,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/904.png,2
+905,Enamorus,8,1.6,48,Fairy,Flying,Cute Charm,,Contrary,Pink,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/905.png,1
+906,Sprigatito,9,0.4,4.1,Grass,,Overgrow,,Protean,Green,Ground,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/906.png,1
+907,Floragato,9,0.9,12.2,Grass,,Overgrow,,Protean,Green,Ground,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png,2
+908,Meowscarada,9,1.5,31.2,Grass,Dark,Overgrow,,Protean,Green,Ground,Grass,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/908.png,3
+909,Fuecoco,9,0.4,9.8,Fire,,Blaze,,Unaware,Red,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/909.png,1
+910,Crocalor,9,1,30.7,Fire,,Blaze,,Unaware,Red,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/910.png,2
+911,Skeledirge,9,1.6,326.5,Fire,Ghost,Blaze,,Unaware,Red,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/911.png,3
+912,Quaxly,9,0.5,6.1,Water,,Torrent,,Moxie,Blue,Flying,Water1,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/912.png,1
+913,Quaxwell,9,1.2,21.5,Water,,Torrent,,Moxie,Blue,Flying,Water1,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png,2
+914,Quaquaval,9,1.8,61.9,Water,Fighting,Torrent,,Moxie,Blue,Flying,Water1,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png,3
+915,Lechonk,9,0.5,10.2,Normal,,Aroma Veil,Gluttony,Thick Fat,Gray,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/915.png,1
+916,Oinkologne,9,1,120,Normal,,Lingering Aroma,Gluttony,Thick Fat,Gray,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png,2
+917,Tarountula,9,0.3,4,Bug,,Insomnia,,Stakeout,White,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/917.png,1
+918,Spidops,9,1,16.5,Bug,,Insomnia,,Stakeout,Green,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png,2
+919,Nymble,9,0.2,1,Bug,,Swarm,,Tinted Lens,Gray,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/919.png,1
+920,Lokix,9,1,17.5,Bug,Dark,Swarm,,Tinted Lens,Gray,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/920.png,2
+921,Pawmi,9,0.3,2.5,Electric,,Static,Natural Cure,Iron Fist,Yellow,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/921.png,1
+922,Pawmo,9,0.4,6.5,Electric,Fighting,Volt Absorb,Natural Cure,Iron Fist,Yellow,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/922.png,2
+923,Pawmot,9,0.9,41,Electric,Fighting,Volt Absorb,Natural Cure,Iron Fist,Yellow,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png,3
+924,Tandemaus,9,0.3,1.8,Normal,,Run Away,Pickup,Own Tempo,White,Ground,Fairy,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/924.png,1
+925,Maushold,9,0.3,2.3,Normal,,Friend Guard,Cheek Pouch,Technician,White,Ground,Fairy,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png,2
+926,Fidough,9,0.3,10.9,Fairy,,Own Tempo,,Klutz,Yellow,Ground,Mineral,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/926.png,1
+927,Dachsbun,9,0.5,14.9,Fairy,,Well-Baked Body,,Aroma Veil,Brown,Ground,Mineral,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/927.png,2
+928,Smoliv,9,0.3,6.5,Grass,Normal,Early Bird,,Harvest,Green,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/928.png,1
+929,Dolliv,9,0.6,11.9,Grass,Normal,Early Bird,,Harvest,Green,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/929.png,2
+930,Arboliva,9,1.4,48.2,Grass,Normal,Seed Sower,,Harvest,Green,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/930.png,3
+931,Squawkabilly,9,0.6,2.4,Normal,Flying,Intimidate,Guts,Guts,Green,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/931.png,1
+932,Nacli,9,0.4,16,Rock,,Purifying Salt,Sturdy,Clear Body,Brown,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/932.png,1
+933,Naclstack,9,0.6,105,Rock,,Purifying Salt,Sturdy,Clear Body,Brown,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/933.png,2
+934,Garganacl,9,2.3,240,Rock,,Purifying Salt,Sturdy,Clear Body,Brown,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/934.png,3
+935,Charcadet,9,0.6,10.5,Fire,,Flash Fire,,Flame Body,Red,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png,1
+936,Armarouge,9,1.5,85,Fire,Psychic,Flash Fire,,Weak Armor,Red,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png,2
+937,Ceruledge,9,1.6,62,Fire,Ghost,Flash Fire,,Weak Armor,Blue,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png,2
+938,Tadbulb,9,0.3,0.4,Electric,,Own Tempo,Static,Damp,Yellow,Water1,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/938.png,1
+939,Bellibolt,9,1.2,113,Electric,,Electromorphosis,Static,Damp,Green,Water1,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png,2
+940,Wattrel,9,0.4,3.6,Electric,Flying,Wind Power,Volt Absorb,Competitive,Black,Water1,Flying,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/940.png,1
+941,Kilowattrel,9,1.4,38.6,Electric,Flying,Wind Power,Volt Absorb,Competitive,Yellow,Water1,Flying,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/941.png,2
+942,Maschiff,9,0.5,16,Dark,,Intimidate,Run Away,Stakeout,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png,1
+943,Mabosstiff,9,1.1,61,Dark,,Intimidate,Guard Dog,Stakeout,Gray,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/943.png,2
+944,Shroodle,9,0.2,0.7,Poison,Normal,Unburden,Pickpocket,Prankster,Gray,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png,1
+945,Grafaiai,9,0.7,27.2,Poison,Normal,Unburden,Poison Touch,Prankster,Gray,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/945.png,2
+946,Bramblin,9,0.6,0.6,Grass,Ghost,Wind Rider,,Infiltrator,Brown,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png,1
+947,Brambleghast,9,1.2,6,Grass,Ghost,Wind Rider,,Infiltrator,Brown,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/947.png,2
+948,Toedscool,9,0.9,33,Ground,Grass,Mycelium Might,,,Yellow,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/948.png,1
+949,Toedscruel,9,1.9,58,Ground,Grass,Mycelium Might,,,Black,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/949.png,2
+950,Klawf,9,1.3,79,Rock,,Anger Shell,Shell Armor,Regenerator,Red,Water3,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png,1
+951,Capsakid,9,0.3,3,Grass,,Chlorophyll,Insomnia,Klutz,Green,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/951.png,1
+952,Scovillain,9,0.9,15,Grass,Fire,Chlorophyll,Insomnia,Moody,Green,Grass,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/952.png,2
+953,Rellor,9,0.2,1,Bug,,Compound Eyes,,Shed Skin,Brown,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/953.png,1
+954,Rabsca,9,0.3,3.5,Bug,Psychic,Synchronize,,Telepathy,Green,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png,2
+955,Flittle,9,0.2,1.5,Psychic,,Anticipation,Frisk,Speed Boost,Yellow,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/955.png,1
+956,Espathra,9,1.9,90,Psychic,,Opportunist,Frisk,Speed Boost,Yellow,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/956.png,2
+957,Tinkatink,9,0.4,8.9,Fairy,Steel,Mold Breaker,Own Tempo,Pickpocket,Pink,Fairy,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png,1
+958,Tinkatuff,9,0.7,59.1,Fairy,Steel,Mold Breaker,Own Tempo,Pickpocket,Pink,Fairy,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/958.png,2
+959,Tinkaton,9,0.7,112.8,Fairy,Steel,Mold Breaker,Own Tempo,Pickpocket,Pink,Fairy,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png,3
+960,Wiglett,9,1.2,1.8,Water,,Gooey,Rattled,Sand Veil,White,Water3,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png,1
+961,Wugtrio,9,1.2,5.4,Water,,Gooey,Rattled,Sand Veil,Red,Water3,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png,2
+962,Bombirdier,9,1.5,42.9,Flying,Dark,Big Pecks,Keen Eye,Rocky Payload,White,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png,1
+963,Finizen,9,1.3,60.2,Water,,Water Veil,,,Blue,Ground,Water2,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/963.png,1
+964,Palafin,9,1.3,60.2,Water,,Zero to Hero,,,Blue,Ground,Water2,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/964.png,2
+965,Varoom,9,1,35,Steel,Poison,Overcoat,,Slow Start,Gray,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png,1
+966,Revavroom,9,1.8,120,Steel,Poison,Overcoat,,Filter,Gray,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/966.png,2
+967,Cyclizar,9,1.6,63,Dragon,Normal,Shed Skin,,Regenerator,Green,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/967.png,1
+968,Orthworm,9,2.5,310,Steel,,Earth Eater,,Sand Veil,Pink,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/968.png,1
+969,Glimmet,9,0.7,8,Rock,Poison,Toxic Debris,,Corrosion,Blue,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/969.png,1
+970,Glimmora,9,1.5,45,Rock,Poison,Toxic Debris,,Corrosion,Blue,Mineral,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/970.png,2
+971,Greavard,9,0.6,35,Ghost,,Pickup,,Fluffy,White,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/971.png,1
+972,Houndstone,9,2,15,Ghost,,Sand Rush,,Fluffy,White,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/972.png,2
+973,Flamigo,9,1.6,37,Flying,Fighting,Scrappy,Tangled Feet,Costar,Pink,Flying,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/973.png,1
+974,Cetoddle,9,1.2,45,Ice,,Thick Fat,Snow Cloak,Sheer Force,White,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/974.png,1
+975,Cetitan,9,4.5,700,Ice,,Thick Fat,Slush Rush,Sheer Force,White,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png,2
+976,Veluza,9,2.5,90,Water,Psychic,Mold Breaker,,Sharpness,Gray,Water2,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/976.png,1
+977,Dondozo,9,12,220,Water,,Unaware,Oblivious,Water Veil,Blue,Water2,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/977.png,1
+978,Tatsugiri,9,0.3,8,Dragon,Water,Commander,,Storm Drain,Pink,Water2,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/978.png,1
+979,Annihilape,9,1.2,56,Fighting,Ghost,Vital Spirit,Inner Focus,Defiant,Gray,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/979.png,3
+980,Clodsire,9,1.8,223,Poison,Ground,Poison Point,Water Absorb,Unaware,Brown,Water1,Ground,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/980.png,2
+981,Farigiraf,9,3.2,160,Normal,Psychic,Cud Chew,Armor Tail,Sap Sipper,Brown,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png,2
+982,Dudunsparce,9,3.6,39.2,Normal,,Serene Grace,Run Away,Rattled,Yellow,Ground,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/982.png,2
+983,Kingambit,9,2,120,Dark,Steel,Defiant,Supreme Overlord,Pressure,Black,Human-Like,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/983.png,3
+984,Great Tusk,9,2.2,320,Ground,Fighting,Protosynthesis,,,Purple,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png,1
+985,Scream Tail,9,1.2,8,Fairy,Psychic,Protosynthesis,,,Pink,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png,1
+986,Brute Bonnet,9,1.2,21,Grass,Dark,Protosynthesis,,,Gray,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/986.png,1
+987,Flutter Mane,9,1.4,4,Ghost,Fairy,Protosynthesis,,,Gray,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/987.png,1
+988,Slither Wing,9,3.2,92,Bug,Fighting,Protosynthesis,,,Red,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/988.png,1
+989,Sandy Shocks,9,2.3,60,Electric,Ground,Protosynthesis,,,Gray,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/989.png,1
+990,Iron Treads,9,0.9,240,Ground,Steel,Quark Drive,,,Gray,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/990.png,1
+991,Iron Bundle,9,0.6,11,Ice,Water,Quark Drive,,,Red,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/991.png,1
+992,Iron Hands,9,1.8,380.7,Fighting,Electric,Quark Drive,,,Gray,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/992.png,1
+993,Iron Jugulis,9,1.3,111,Dark,Flying,Quark Drive,,,Blue,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png,1
+994,Iron Moth,9,1.2,36,Fire,Poison,Quark Drive,,,Yellow,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/994.png,1
+995,Iron Thorns,9,1.6,303,Rock,Electric,Quark Drive,,,Green,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png,1
+996,Frigibax,9,0.5,17,Dragon,Ice,Thermal Exchange,,Ice Body,Gray,Dragon,Mineral,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/996.png,1
+997,Arctibax,9,0.8,30,Dragon,Ice,Thermal Exchange,,Ice Body,Gray,Dragon,Mineral,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/997.png,2
+998,Baxcalibur,9,2.1,210,Dragon,Ice,Thermal Exchange,,Ice Body,Gray,Dragon,Mineral,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/998.png,3
+999,Gimmighoul,9,0.3,5,Ghost,,Rattled,,,Brown,Undiscovered,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/999.png,1
+1000,Gholdengo,9,1.2,30,Steel,Ghost,Good as Gold,,,Yellow,Undiscovered,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png,2
+1001,Wo-Chien,9,1.5,74.2,Dark,Grass,Tablets of Ruin,,,Brown,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1001.png,1
+1002,Chien-Pao,9,1.9,152.2,Dark,Ice,Sword of Ruin,,,White,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1002.png,1
+1003,Ting-Lu,9,2.7,699.7,Dark,Ground,Vessel of Ruin,,,Brown,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png,1
+1004,Chi-Yu,9,0.4,4.9,Dark,Fire,Beads of Ruin,,,Red,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png,1
+1005,Roaring Moon,9,2,380,Dragon,Dark,Protosynthesis,,,Green,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1005.png,1
+1006,Iron Valiant,9,1.4,35,Fairy,Fighting,Quark Drive,,,White,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1006.png,1
+1007,Koraidon,9,2.5,303,Fighting,Dragon,Orichalcum Pulse,,,Red,Undiscovered,,Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1007.png,1
+1008,Miraidon,9,3.5,240,Electric,Dragon,Hadron Engine,,,Blue,Undiscovered,,Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png,1
+1009,Walking Wake,9,3.5,280,Water,Dragon,Protosynthesis,,,Blue,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1009.png,1
+1010,Iron Leaves,9,1.5,125,Grass,Psychic,Quark Drive,,,Green,Undiscovered,,Semi-Legendary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1010.png,1
