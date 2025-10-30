@@ -1,0 +1,18 @@
+config_name,attributes,num_attributes,num_runs,avg_attempts,min_attempts,max_attempts,success_rate,total_time,avg_time_per_solve
+Full,"Generation, Height, Weight, Type1, Type2, Color, evolutionary_stage",7,1000,4.08,2,8,100.0,7.405159950256348,0.007405159950256347
+No_Type2,"Generation, Height, Weight, Type1, Color, evolutionary_stage",6,1000,4.239,1,8,100.0,8.316153287887573,0.008316153287887573
+No_Type1,"Generation, Height, Weight, Type2, Color, evolutionary_stage",6,1000,4.378,1,9,100.0,16.64083695411682,0.016640836954116823
+No_EvolutionaryStage,"Generation, Height, Weight, Type1, Type2, Color",6,1000,4.472,1,9,100.0,9.058343172073364,0.009058343172073364
+No_Generation,"Height, Weight, Type1, Type2, Color, evolutionary_stage",6,1000,4.489,1,10,100.0,19.4967200756073,0.0194967200756073
+No_Color,"Generation, Height, Weight, Type1, Type2, evolutionary_stage",6,1000,4.503,1,9,100.0,9.018866062164307,0.009018866062164307
+No_Weight,"Generation, Height, Type1, Type2, Color, evolutionary_stage",6,1000,4.624,1,9,100.0,9.27418851852417,0.00927418851852417
+No_Types,"Generation, Height, Weight, Color, evolutionary_stage",5,1000,4.628,2,10,100.0,83.31361961364746,0.08331361961364746
+No_Height,"Generation, Weight, Type1, Type2, Color, evolutionary_stage",6,1000,4.851,1,10,100.0,9.70111608505249,0.00970111608505249
+Types_Numeric,"Height, Weight, Type1, Type2",4,1000,5.808,1,11,98.6,10.689695119857788,0.010689695119857788
+Types_Metadata,"Generation, Type1, Type2, Color, evolutionary_stage",5,1000,6.008,2,11,98.6,38.9137818813324,0.0389137818813324
+Numeric_Only,"Height, Weight",2,1000,7.179,2,11,91.4,9.519102811813354,0.009519102811813354
+Minimal_Types_Color,"Type1, Type2, Color",3,1000,7.449,1,11,78.10000000000001,17.430997610092163,0.017430997610092164
+Minimal_Types_Gen,"Type1, Type2, Generation",3,1000,7.858,1,11,74.1,19.58023715019226,0.019580237150192262
+Core,"Type1, Type2, evolutionary_stage",3,1000,7.897,1,11,62.7,181.07446551322937,0.18107446551322937
+Minimal_Types_Stage,"Type1, Type2, evolutionary_stage",3,1000,7.913,1,11,61.3,88.97304368019104,0.08897304368019104
+Types_Only,"Type1, Type2",2,1000,8.295,1,11,56.3,14.936222553253174,0.014936222553253173
