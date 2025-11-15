@@ -383,12 +383,41 @@ class AStarSolver(BaseSolver):
             self.open_set = heapq.nsmallest(self.beam_width, self.open_set)
             heapq.heapify(self.open_set)
         
+        # CAPTURE COMPLETE OPEN SET STATE BEFORE POPPING
+        open_set_snapshot = []
+        for node in list(self.open_set):
+            try:
+                pokemon_name = self.df.loc[node.pokemon_idx]['Original_Name']
+                open_set_snapshot.append({
+                    "pokemon_idx": int(node.pokemon_idx),
+                    "pokemon_name": str(pokemon_name),
+                    "g_cost": float(node.g_cost),
+                    "h_cost": round(float(node.h_cost), 3),
+                    "f_cost": round(float(node.f_cost), 3),
+                    "parent_idx": int(node.parent.pokemon_idx) if node.parent else None,
+                    "path": [int(p) for p in node.path] if node.path else []
+                })
+            except Exception as e:
+                print(f"Error capturing node {node.pokemon_idx}: {e}")
+                continue
+        
         # Pop node with lowest f_cost
         current_node = heapq.heappop(self.open_set)
         current_idx = current_node.pokemon_idx
         
         # Add to closed set (already guessed)
         self.closed_set.add(current_idx)
+        
+        # Capture closed set for visualization
+        closed_set_snapshot = []
+        for idx in self.closed_set:
+            try:
+                closed_set_snapshot.append({
+                    "pokemon_idx": int(idx),
+                    "pokemon_name": str(self.df.loc[idx]['Original_Name'])
+                })
+            except:
+                continue
         
         # Check if goal state
         if self.is_goal_state(current_idx):
@@ -400,7 +429,8 @@ class AStarSolver(BaseSolver):
                 "f_cost": round(current_node.f_cost, 3),
                 "path_length": len(current_node.path),
                 "candidates": len(self.candidates),
-                "goal_state": True
+                "goal_state": True,
+                "open_set_nodes": open_set_snapshot
             }
             return pokemon, info
         
@@ -438,7 +468,14 @@ class AStarSolver(BaseSolver):
             "f_cost": round(current_node.f_cost, 3),
             "open_set_size": len(self.open_set),
             "closed_set_size": len(self.closed_set),
-            "candidates": len(self.candidates)
+            "candidates": len(self.candidates),
+            "open_set_nodes": open_set_snapshot,  # ALL open set nodes!
+            "closed_set_nodes": closed_set_snapshot,  # ALL closed set nodes!
+            "current_node": {
+                "pokemon_idx": int(current_idx),
+                "pokemon_name": str(self.df.loc[current_idx]['Original_Name']),
+                "path": [int(p) for p in current_node.path] if current_node.path else []
+            }
         }
         
         return pokemon, info

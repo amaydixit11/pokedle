@@ -19,6 +19,7 @@ import {
   Info,
 } from "lucide-react";
 import GAVisualization from "./GAVisualization";
+import AStarVisualization from "./AStartVisualization";
 
 // Types
 interface SolverConfig {
@@ -929,18 +930,7 @@ export default function PokedleVisualizer() {
                     </div>
                   )}
                 </div>
-                {result.algorithm === "GA" &&
-                  result.steps[currentStep]?.algorithm_state
-                    ?.generation_history && (
-                    <div className="col-span-3 mt-6">
-                      <GAVisualization
-                        generationHistory={
-                          result.steps[currentStep].algorithm_state
-                            .generation_history
-                        }
-                      />
-                    </div>
-                  )}
+
                 {/* Secret Pokemon */}
                 <div className="bg-gradient-to-r from-yellow-50 to-orange-50 rounded-lg border border-yellow-200 p-6">
                   <div className="flex items-center gap-6">
@@ -1152,6 +1142,30 @@ export default function PokedleVisualizer() {
                     </div>
                   </div>
                 </div>
+                {result.algorithm === "GA" &&
+                  result.steps[currentStep]?.algorithm_state
+                    ?.generation_history && (
+                    <div className="col-span-3 mt-6">
+                      <GAVisualization
+                        generationHistory={
+                          result.steps[currentStep].algorithm_state
+                            .generation_history
+                        }
+                      />
+                    </div>
+                  )}
+                {/* {result.algorithm === "ASTAR" &&
+                  result.steps[currentStep]?.algorithm_state && (
+                    <div className="col-span-3 mt-6">
+                      <AStarVisualization
+                        algorithmState={
+                          result.steps[currentStep].algorithm_state
+                        }
+                        allSteps={result.steps}
+                        currentStepIndex={currentStep}
+                      />
+                    </div>
+                  )} */}
               </div>
             ) : (
               <div className="h-full flex items-center justify-center">

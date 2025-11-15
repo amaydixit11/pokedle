@@ -558,6 +558,7 @@ No,Original_Name,Generation,Height,Weight,Type1,Type2,Ability1,Ability2,Ability_
 15,Beedrill,1,1,29.5,Bug,Poison,Swarm,,Sniper,Yellow,Bug,,Ordinary,FALSE,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png,3
 ...
 and so on till 1010 pokemons
+
 ================================================
 FILE: config.py
 ================================================
@@ -2143,12 +2144,41 @@ class AStarSolver(BaseSolver):
             self.open_set = heapq.nsmallest(self.beam_width, self.open_set)
             heapq.heapify(self.open_set)
         
+        # CAPTURE COMPLETE OPEN SET STATE BEFORE POPPING
+        open_set_snapshot = []
+        for node in list(self.open_set):
+            try:
+                pokemon_name = self.df.loc[node.pokemon_idx]['Original_Name']
+                open_set_snapshot.append({
+                    "pokemon_idx": int(node.pokemon_idx),
+                    "pokemon_name": str(pokemon_name),
+                    "g_cost": float(node.g_cost),
+                    "h_cost": round(float(node.h_cost), 3),
+                    "f_cost": round(float(node.f_cost), 3),
+                    "parent_idx": int(node.parent.pokemon_idx) if node.parent else None,
+                    "path": [int(p) for p in node.path] if node.path else []
+                })
+            except Exception as e:
+                print(f"Error capturing node {node.pokemon_idx}: {e}")
+                continue
+        
         # Pop node with lowest f_cost
         current_node = heapq.heappop(self.open_set)
         current_idx = current_node.pokemon_idx
         
         # Add to closed set (already guessed)
         self.closed_set.add(current_idx)
+        
+        # Capture closed set for visualization
+        closed_set_snapshot = []
+        for idx in self.closed_set:
+            try:
+                closed_set_snapshot.append({
+                    "pokemon_idx": int(idx),
+                    "pokemon_name": str(self.df.loc[idx]['Original_Name'])
+                })
+            except:
+                continue
         
         # Check if goal state
         if self.is_goal_state(current_idx):
@@ -2160,7 +2190,8 @@ class AStarSolver(BaseSolver):
                 "f_cost": round(current_node.f_cost, 3),
                 "path_length": len(current_node.path),
                 "candidates": len(self.candidates),
-                "goal_state": True
+                "goal_state": True,
+                "open_set_nodes": open_set_snapshot
             }
             return pokemon, info
         
@@ -2198,7 +2229,14 @@ class AStarSolver(BaseSolver):
             "f_cost": round(current_node.f_cost, 3),
             "open_set_size": len(self.open_set),
             "closed_set_size": len(self.closed_set),
-            "candidates": len(self.candidates)
+            "candidates": len(self.candidates),
+            "open_set_nodes": open_set_snapshot,  # ALL open set nodes!
+            "closed_set_nodes": closed_set_snapshot,  # ALL closed set nodes!
+            "current_node": {
+                "pokemon_idx": int(current_idx),
+                "pokemon_name": str(self.df.loc[current_idx]['Original_Name']),
+                "path": [int(p) for p in current_node.path] if current_node.path else []
+            }
         }
         
         return pokemon, info
@@ -2812,6 +2850,7 @@ import pandas as pd
 import random
 from typing import Dict, Tuple, Any, List, Set, Optional, Callable
 from algorithms.base import BaseSolver
+import numpy as np
 
 class GASolver(BaseSolver):
     """
@@ -3300,6 +3339,8 @@ class GASolver(BaseSolver):
         
         return False
     
+
+
     def next_guess(self) -> Tuple[pd.Series, Dict[str, Any]]:
         """Generate next guess using GA with detailed tracking."""
         # Clear generation history for this guess
@@ -3324,6 +3365,8 @@ class GASolver(BaseSolver):
         avg_fitness = sum(fitness_scores) / len(fitness_scores) if fitness_scores else 0
         unique_individuals = len(set(self.population))
         
+        serializable_history = _convert_to_serializable(self.generation_history)
+
         info = {
             "algorithm": "GA",
             "generation": self.generation,
@@ -3332,8 +3375,7 @@ class GASolver(BaseSolver):
             "population_diversity": round(unique_individuals / self.pop_size * 100, 1),
             "population_size": len(self.population),
             "num_constraints": len(self.hard_constraints) + len(self.soft_constraints) + len(self.numeric_constraints),
-            # NEW: Include generation history
-            # "generation_history": self.generation_history
+            "generation_history": serializable_history
         }
         
         return pokemon, info
@@ -3368,6 +3410,25 @@ class GASolver(BaseSolver):
             "numeric_constraints": len(self.numeric_constraints),
             "generation_history": self.generation_history
         }
+        
+def _convert_to_serializable(obj):
+    """Recursively convert numpy types to native Python types for JSON serialization."""
+    if isinstance(obj, (np.integer, np.int64, np.int32)):
+        return int(obj)
+    elif isinstance(obj, (np.floating, np.float64, np.float32)):
+        return float(obj)
+    elif isinstance(obj, (np.bool_, bool)):
+        return bool(obj)
+    elif isinstance(obj, np.ndarray):
+        return obj.tolist()
+    elif isinstance(obj, dict):
+        return {k: _convert_to_serializable(v) for k, v in obj.items()}
+    elif isinstance(obj, (list, tuple)):
+        return [_convert_to_serializable(item) for item in obj]
+    elif pd.isna(obj):
+        return None
+    else:
+        return obj
 
 
 ================================================

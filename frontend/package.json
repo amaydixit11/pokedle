@@ -9,6 +9,7 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "d3": "^7.9.0",
     "lucide-react": "^0.548.0",
     "next": "16.0.1",
     "react": "19.2.0",
@@ -17,6 +18,7 @@
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
+    "@types/d3": "^7.4.3",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
