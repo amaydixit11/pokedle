@@ -20,7 +20,6 @@ from algorithms.simulated_annealing import SimulatedAnnealingSolver
 from utils.metrics import calculate_metrics
 from utils.validators import validate_config
 
-from sse_starlette.sse import EventSourceResponse
 import asyncio
 import json
 
