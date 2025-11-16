@@ -95,7 +95,7 @@ interface CompareResult {
   winner: string | null;
 }
 
-const API_URL = process.env.API_URL || "http://localhost:8000";
+const API_URL = "https://pokedle-gqv1.onrender.com";
 
 export default function PokedleVisualizer() {
   const [config, setConfig] = useState<SolverConfig>({
