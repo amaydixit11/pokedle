@@ -1,8 +1,3 @@
-# ============================================================
-# FILE: data_loader.py
-# Dataset Loading and Preprocessing
-# ============================================================
-
 import pandas as pd
 from typing import Optional
 

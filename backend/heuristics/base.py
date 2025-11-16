@@ -1,8 +1,3 @@
-# ============================================================
-# FILE: heuristics/base.py
-# Abstract Base Heuristic Class
-# ============================================================
-
 from abc import ABC, abstractmethod
 import pandas as pd
 from typing import Tuple, Dict, Any

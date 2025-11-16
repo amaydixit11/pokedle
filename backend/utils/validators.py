@@ -1,8 +1,3 @@
-# ============================================================
-# FILE: utils/validators.py
-# Input Validation Functions
-# ============================================================
-
 from typing import List, Dict, Any, Optional
 from fastapi import HTTPException
 from config import (

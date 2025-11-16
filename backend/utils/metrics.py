@@ -1,8 +1,3 @@
-# ============================================================
-# FILE: utils/metrics.py
-# Performance Metrics and Analysis
-# ============================================================
-
 from typing import Dict, List, Any
 from dataclasses import dataclass
 import statistics

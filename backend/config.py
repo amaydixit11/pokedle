@@ -1,4 +1,4 @@
-# CSV file path
+
 CSV_PATH = "03_cleaned_with_images_and_evolutionary_stages.csv"
 
 AVAILABLE_ATTRIBUTES = [
@@ -10,25 +10,25 @@ NUMERIC_ATTRIBUTES = ['Height', 'Weight']
 
 AVAILABLE_ALGORITHMS = ['CSP', 'GA', 'ASTAR', 'SA']
 
-# CSP Heuristics - Split into two categories
+
 VARIABLE_ORDERING_HEURISTICS = [
-    'mrv',              # Minimum Remaining Values
-    'degree',           # Degree heuristic (most constrained)
-    'mrv_degree',       # MRV with degree tiebreaker
-    'none',             # No heuristic (first available)
+    'mrv',              
+    'degree',           
+    'mrv_degree',       
+    'none',             
 ]
 
 VALUE_ORDERING_HEURISTICS = [
-    'lcv',              # Least Constraining Value
-    'most_common',      # Most frequently occurring value
-    'none',             # No heuristic (first available)
+    'lcv',              
+    'most_common',      
+    'none',             
 ]
 
-# Legacy support - for backward compatibility
+
 AVAILABLE_HEURISTICS = VARIABLE_ORDERING_HEURISTICS
 
 AVAILABLE_CROSSOVER_STRATEGIES = [
-    'attribute_blend',  # No longer used - GA now uses proper crossover
+    'attribute_blend',  
     'uniform',
     'single_point',
     'two_point',
@@ -56,17 +56,17 @@ ALGORITHM_DESCRIPTIONS = {
     "SA": "Simulated Annealing with temperature-based optimization and energy minimization"
 }
 
-# GA Configuration - OPTIMIZED for speed
+
 DEFAULT_GA_CONFIG = {
-    'pop_size': 50,              # Reduced
-    'elite_size': 10,            # Reduced
+    'pop_size': 50,              
+    'elite_size': 10,            
     'mutation_rate': 0.2,
     'crossover_rate': 0.7,
     'tournament_size': 3,
-    'generations_per_guess': 10  # KEY FIX: 30 → 10
+    'generations_per_guess': 10  
 }
 
-# SA Configuration
+
 DEFAULT_SA_CONFIG = {
     'initial_temp': 100.0,
     'cooling_rate': 0.95,
@@ -75,13 +75,13 @@ DEFAULT_SA_CONFIG = {
     'reheat_threshold': 0.1
 }
 
-# A* Configuration
+
 DEFAULT_ASTAR_CONFIG = {
     'beam_width': 100,
-    'heuristic_weight': 1.0  # 1.0 ensures admissibility
+    'heuristic_weight': 1.0  
 }
 
-# CSP Configuration
+
 DEFAULT_CSP_CONFIG = {
     'variable_heuristic': 'mrv',
     'value_heuristic': 'lcv',

@@ -1,8 +1,3 @@
-# ============================================================
-# FILE: algorithms/base.py
-# Abstract Base Solver Class - FIXED
-# ============================================================
-
 from abc import ABC, abstractmethod
 import pandas as pd
 from typing import Dict, Tuple, Any, List

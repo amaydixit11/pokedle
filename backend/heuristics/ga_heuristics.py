@@ -1,8 +1,3 @@
-# ============================================================
-# FILE: heuristics/ga_heuristics.py
-# Genetic Algorithm Specific Heuristics
-# ============================================================
-
 import pandas as pd
 import random
 from typing import Dict, List, Tuple, Any

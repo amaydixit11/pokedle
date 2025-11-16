@@ -1,0 +1,90 @@
+================================================================================
+POKEDLE AI SOLVER - BENCHMARK REPORT
+================================================================================
+
+Generated: 2025-11-16 02:18:20
+Total Runs: 80
+
+OVERALL SUMMARY
+--------------------------------------------------------------------------------
+total_runs                    : 80.000
+successful_runs               : 73.000
+success_rate                  : 0.912
+avg_attempts                  : 6.027
+avg_time                      : 4.499
+avg_efficiency                : 0.191
+
+ALGORITHM COMPARISON
+--------------------------------------------------------------------------------
+
+CSP:
+  runs                     : 20.000
+  success_rate             : 0.900
+  avg_attempts             : 5.389
+  avg_time                 : 0.903
+  std_attempts             : 2.146
+  min_attempts             : 3
+  max_attempts             : 9
+
+GA:
+  runs                     : 20.000
+  success_rate             : 0.950
+  avg_attempts             : 6.211
+  avg_time                 : 14.029
+  std_attempts             : 1.843
+  min_attempts             : 3
+  max_attempts             : 10
+
+ASTAR:
+  runs                     : 20.000
+  success_rate             : 0.950
+  avg_attempts             : 6.000
+  avg_time                 : 0.734
+  std_attempts             : 2.082
+  min_attempts             : 2
+  max_attempts             : 9
+
+SA:
+  runs                     : 20.000
+  success_rate             : 0.850
+  avg_attempts             : 6.529
+  avg_time                 : 1.865
+  std_attempts             : 2.267
+  min_attempts             : 3
+  max_attempts             : 10
+
+BEST CONFIGURATIONS PER ALGORITHM
+--------------------------------------------------------------------------------
+
+CSP: standard
+  Avg Attempts: 5.39
+  Avg Time:     0.903s
+  Success Rate: 100.0%
+
+GA: standard
+  Avg Attempts: 6.21
+  Avg Time:     14.029s
+  Success Rate: 100.0%
+
+ASTAR: standard
+  Avg Attempts: 6.00
+  Avg Time:     0.734s
+  Success Rate: 100.0%
+
+SA: standard
+  Avg Attempts: 6.53
+  Avg Time:     1.865s
+  Success Rate: 100.0%
+
+ATTRIBUTE SET ANALYSIS
+--------------------------------------------------------------------------------
+
+basic (3 attributes):
+  Success Rate: 82.5%
+  Avg Attempts: 5.82
+  Avg Time:     3.366s
+
+standard (4 attributes):
+  Success Rate: 100.0%
+  Avg Attempts: 6.20
+  Avg Time:     5.434s

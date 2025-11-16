@@ -1,8 +1,3 @@
-# ============================================================
-# FILE: algorithms/__init__.py
-# Algorithms Package Initialization
-# ============================================================
-
 from .base import BaseSolver
 from .csp_solver import CSPSolver
 from .ga_solver import GASolver

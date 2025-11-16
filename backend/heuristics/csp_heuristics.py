@@ -1,8 +1,3 @@
-# ============================================================
-# FILE: heuristics/csp_heuristics.py
-# Enhanced CSP Heuristics
-# ============================================================
-
 import pandas as pd
 import math
 from typing import Tuple, Dict, Any

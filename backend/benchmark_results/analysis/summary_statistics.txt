@@ -1,0 +1,96 @@
+================================================================================
+BENCHMARK SUMMARY STATISTICS
+================================================================================
+
+Total Runs: 1680
+Successful Runs: 1537 (91.5%)
+Failed Runs: 143 (8.5%)
+
+--------------------------------------------------------------------------------
+OVERALL STATISTICS (Successful Runs)
+--------------------------------------------------------------------------------
+Average Attempts:     5.31 ± 2.04
+Median Attempts:      5
+Min Attempts:         1
+Max Attempts:         10
+Average Time:         8.666s ± 19.166s
+Average Efficiency:   0.233
+
+--------------------------------------------------------------------------------
+PER ALGORITHM STATISTICS
+--------------------------------------------------------------------------------
+
+ASTAR:
+  Total Runs:         420
+  Success Rate:       94.3%
+  Avg Attempts:       5.37 ± 2.02
+  Median Attempts:    5
+  Avg Time:           0.344s
+  Avg Efficiency:     0.218
+  Best Config:        very_narrow (5.15 avg attempts)
+
+CSP:
+  Total Runs:         490
+  Success Rate:       94.1%
+  Avg Attempts:       5.09 ± 2.09
+  Median Attempts:    5
+  Avg Time:           0.627s
+  Avg Efficiency:     0.265
+  Best Config:        mrv_most_common_ac3 (4.87 avg attempts)
+
+GA:
+  Total Runs:         420
+  Success Rate:       87.4%
+  Avg Attempts:       5.46 ± 2.00
+  Median Attempts:    5
+  Avg Time:           34.484s
+  Avg Efficiency:     0.220
+  Best Config:        small_fast (5.16 avg attempts)
+
+SA:
+  Total Runs:         350
+  Success Rate:       89.4%
+  Avg Attempts:       5.40 ± 2.02
+  Median Attempts:    5
+  Avg Time:           0.761s
+  Avg Efficiency:     0.222
+  Best Config:        hot_slow (5.16 avg attempts)
+
+--------------------------------------------------------------------------------
+ATTRIBUTE SET ANALYSIS
+--------------------------------------------------------------------------------
+
+basic (3 attributes):
+  Success Rate:       86.7%
+  Avg Attempts:       5.66
+  Avg Time:           6.927s
+
+comprehensive (6 attributes):
+  Success Rate:       100.0%
+  Avg Attempts:       4.10
+  Avg Time:           9.708s
+
+extended (5 attributes):
+  Success Rate:       100.0%
+  Avg Attempts:       4.45
+  Avg Time:           9.665s
+
+minimal (2 attributes):
+  Success Rate:       78.8%
+  Avg Attempts:       5.98
+  Avg Time:           6.057s
+
+numeric (3 attributes):
+  Success Rate:       100.0%
+  Avg Attempts:       5.92
+  Avg Time:           11.436s
+
+standard (4 attributes):
+  Success Rate:       96.7%
+  Avg Attempts:       5.31
+  Avg Time:           8.339s
+
+types_only (2 attributes):
+  Success Rate:       78.3%
+  Avg Attempts:       6.15
+  Avg Time:           7.472s
