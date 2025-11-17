@@ -226,8 +226,8 @@ Given a set of Pokemon attributes (Type, Generation, Height, Weight, Color, etc.
 
 1. **Clone Repository**
 ```bash
-git clone https://github.com/your-team/pokedle-ai-solver.git
-cd pokedle-ai-solver
+git clone https://github.com/amaydixit11/pokedle
+cd pokedle
 ```
 
 2. **Backend Setup**
