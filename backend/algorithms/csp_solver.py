@@ -482,3 +482,4 @@ class CSPSolver(BaseSolver):
             "variables_assigned": len(self.assignment),
             "variables_remaining": len(self.variables) - len(self.assignment)
         }
+    

@@ -23,6 +23,19 @@ from utils.validators import validate_config
 import asyncio
 import json
 
+import logging
+
+from rich.console import Console
+from rich.logging import RichHandler
+import logging
+
+logging.basicConfig(
+    level=logging.DEBUG,
+    handlers=[RichHandler(rich_tracebacks=True)]
+)
+
+
+
 app = FastAPI(
     title="Pokedle Solver API - Logically Correct Version",
     version="5.0",

@@ -502,38 +502,52 @@ class AStarSolver(BaseSolver):
     
     def rebuild_open_set(self):
         """
-        Rebuild open set with updated heuristics.
-        
-        After new feedback, heuristic values change, so we need to update priorities.
+        Rebuild open set with updated heuristics and CORRECT PATH HISTORY.
         """
-        # Extract all nodes from open set
-        nodes = []
-        while self.open_set:
-            nodes.append(heapq.heappop(self.open_set))
+        # 1. Capture the path taken so far based on history
+        # If we guessed [A, B], the path for any new candidate C is [A, B]
+        current_path_indices = [guess_idx for guess_idx, _ in self.feedback_history]
         
-        # Re-add nodes that are still candidates with updated heuristics
-        for node in nodes:
+        # 2. Extract existing nodes to re-evaluate
+        old_nodes = []
+        while self.open_set:
+            old_nodes.append(heapq.heappop(self.open_set))
+        
+        existing_indices = set()
+        
+        # 3. Re-add valid nodes from the old open set with UPDATED path
+        for node in old_nodes:
             if node.pokemon_idx in self.candidates and node.pokemon_idx not in self.closed_set:
                 # Recalculate heuristic
                 h_cost = self.heuristic(node.pokemon_idx) * self.heuristic_weight
+                
+                # CRITICAL FIX: Ensure the node has the correct path history
+                # We prefer the history derived from feedback to ensure consistency
                 new_node = SearchNode(
                     node.pokemon_idx,
                     node.g_cost,
                     h_cost,
-                    node.path,
+                    current_path_indices, # <--- FIX: Use the actual history
                     node.parent
                 )
                 heapq.heappush(self.open_set, new_node)
+                existing_indices.add(node.pokemon_idx)
         
-        # Add new candidates to open set
+        # 4. Add remaining valid candidates that weren't in the open set
+        # This catches candidates that survived the filter but weren't being looked at yet
         for idx in self.candidates:
-            if idx not in self.closed_set:
-                # Check if already in open set
-                if not any(node.pokemon_idx == idx for node in self.open_set):
-                    g_cost = len(self.feedback_history)
-                    h_cost = self.heuristic(idx) * self.heuristic_weight
-                    node = SearchNode(idx, g_cost, h_cost, [])
-                    heapq.heappush(self.open_set, node)
+            if idx not in self.closed_set and idx not in existing_indices:
+                # g_cost is simply the number of steps taken so far
+                g_cost = len(self.feedback_history)
+                h_cost = self.heuristic(idx) * self.heuristic_weight
+                
+                node = SearchNode(
+                    idx, 
+                    g_cost, 
+                    h_cost, 
+                    current_path_indices # <--- FIX: Was passing [] here previously
+                )
+                heapq.heappush(self.open_set, node)
     
     def get_state_info(self) -> Dict[str, Any]:
         """Get current state information"""

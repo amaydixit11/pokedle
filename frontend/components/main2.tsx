@@ -20,6 +20,8 @@ import {
 } from "lucide-react";
 import GAVisualization from "./GAVisualization";
 import AStarVisualization from "./AStartVisualization";
+import JsonViewer from "./JsonViewer";
+import PathVisualizer from "./PathVisualizer";
 
 // Types
 interface SolverConfig {
@@ -1071,19 +1073,19 @@ export default function PokedleVisualizer() {
                         <p className="text-sm font-medium text-gray-700 mb-2">
                           Algorithm State
                         </p>
-                        <div className="grid grid-cols-3 gap-3">
-                          {Object.entries(
-                            result.steps[currentStep].algorithm_state
-                          ).map(([key, value]) => (
-                            <div key={key}>
-                              <span className="text-xs text-gray-500">
-                                {key.replace(/_/g, " ")}:
-                              </span>
-                              <div className="text-sm font-bold text-gray-900">
-                                {renderAlgorithmStateValue(key, value)}
-                              </div>
-                            </div>
-                          ))}
+                        {result.algorithm === "ASTAR" && result.steps[currentStep]?.algorithm_state.current_node?.path && (
+                          <div className="mb-4">
+                            <PathVisualizer
+                              path={[
+                                ...(result.steps[currentStep].algorithm_state.current_node.path || []),
+                                result.steps[currentStep].algorithm_state.current_node.pokemon_idx,
+                              ]}
+                              pokemonList={pokemonList}
+                            />
+                          </div>
+                        )}
+                        <div className="w-full">
+                          <JsonViewer data={result.steps[currentStep].algorithm_state} />
                         </div>
                       </div>
                     )}
@@ -1094,21 +1096,8 @@ export default function PokedleVisualizer() {
                         <p className="text-sm font-medium text-gray-700 mb-2">
                           Heuristic Info
                         </p>
-                        <div className="grid grid-cols-3 gap-3">
-                          {Object.entries(
-                            result.steps[currentStep].heuristic_info
-                          ).map(([key, value]) => (
-                            <div key={key}>
-                              <span className="text-xs text-gray-500">
-                                {key.replace(/_/g, " ")}:
-                              </span>
-                              <p className="text-sm font-bold text-gray-900">
-                                {typeof value === "number"
-                                  ? value.toFixed(2)
-                                  : String(value)}
-                              </p>
-                            </div>
-                          ))}
+                        <div className="w-full">
+                          <JsonViewer data={result.steps[currentStep].heuristic_info} />
                         </div>
                       </div>
                     )}
