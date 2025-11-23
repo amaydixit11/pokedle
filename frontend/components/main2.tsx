@@ -329,6 +329,27 @@ export default function PokedleVisualizer() {
     }
   };
 
+  const renderAlgorithmStateValue = (key: string, value: any) => {
+    if (typeof value === "number") {
+      return value.toFixed(2);
+    }
+    if (
+      typeof value === "object" &&
+      value !== null &&
+      (key === "open_set_nodes" ||
+        key === "closed_set_nodes" ||
+        key === "current_node" ||
+        Array.isArray(value))
+    ) {
+      return (
+        <pre className="text-xs bg-gray-100 p-2 rounded mt-1 overflow-auto max-h-40">
+          {JSON.stringify(value, null, 2)}
+        </pre>
+      );
+    }
+    return String(value);
+  };
+
   useEffect(() => {
     console.log(result);
   }, [result]);
@@ -1052,6 +1073,7 @@ export default function PokedleVisualizer() {
                         <p className="text-sm font-medium text-gray-700 mb-2">
                           Algorithm State
                         </p>
+<<<<<<< HEAD
                         {result.algorithm === "ASTAR" && result.steps[currentStep]?.algorithm_state.current_node?.path && (
                           <div className="mb-4">
                             <PathVisualizer
@@ -1065,6 +1087,21 @@ export default function PokedleVisualizer() {
                         )}
                         <div className="w-full">
                           <JsonViewer data={result.steps[currentStep].algorithm_state} />
+=======
+                        <div className="grid grid-cols-3 gap-3">
+                          {Object.entries(
+                            result.steps[currentStep].algorithm_state
+                          ).map(([key, value]) => (
+                            <div key={key}>
+                              <span className="text-xs text-gray-500">
+                                {key.replace(/_/g, " ")}:
+                              </span>
+                              <div className="text-sm font-bold text-gray-900">
+                                {renderAlgorithmStateValue(key, value)}
+                              </div>
+                            </div>
+                          ))}
+>>>>>>> d67f8a73fd7c55a08b0c6a7960031ff938e228fe
                         </div>
                       </div>
                     )}
