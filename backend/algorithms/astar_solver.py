@@ -424,13 +424,21 @@ class AStarSolver(BaseSolver):
             pokemon = self.df.loc[current_idx]
             info = {
                 "algorithm": "astar",
-                "g_cost": current_node.g_cost,
-                "h_cost": round(current_node.h_cost, 3),
-                "f_cost": round(current_node.f_cost, 3),
+                "g_cost": float(current_node.g_cost),  # FIXED: Use current_node's costs
+                "h_cost": round(float(current_node.h_cost), 3),
+                "f_cost": round(float(current_node.f_cost), 3),
                 "path_length": len(current_node.path),
                 "candidates": len(self.candidates),
                 "goal_state": True,
-                "open_set_nodes": open_set_snapshot
+                "open_set_size": len(self.open_set),
+                "closed_set_size": len(self.closed_set),
+                "open_set_nodes": open_set_snapshot,
+                "closed_set_nodes": closed_set_snapshot,
+                "current_node": {
+                    "pokemon_idx": int(current_idx),
+                    "pokemon_name": str(self.df.loc[current_idx]['Original_Name']),
+                    "path": [int(p) for p in current_node.path] if current_node.path else []
+                }
             }
             return pokemon, info
         
@@ -461,16 +469,18 @@ class AStarSolver(BaseSolver):
         # Return current node as guess
         pokemon = self.df.loc[current_idx]
         
+        # FIXED: Return CURRENT costs, not initial
         info = {
             "algorithm": "astar",
-            "g_cost": current_node.g_cost,
-            "h_cost": round(current_node.h_cost, 3),
-            "f_cost": round(current_node.f_cost, 3),
+            "g_cost": float(current_node.g_cost),
+            "h_cost": round(float(current_node.h_cost), 3),
+            "f_cost": round(float(current_node.f_cost), 3),
+            "path_length": len(current_node.path),
             "open_set_size": len(self.open_set),
             "closed_set_size": len(self.closed_set),
             "candidates": len(self.candidates),
-            "open_set_nodes": open_set_snapshot,  # ALL open set nodes!
-            "closed_set_nodes": closed_set_snapshot,  # ALL closed set nodes!
+            "open_set_nodes": open_set_snapshot,
+            "closed_set_nodes": closed_set_snapshot,
             "current_node": {
                 "pokemon_idx": int(current_idx),
                 "pokemon_name": str(self.df.loc[current_idx]['Original_Name']),
@@ -479,7 +489,6 @@ class AStarSolver(BaseSolver):
         }
         
         return pokemon, info
-    
     def update_feedback(self, guess: pd.Series, feedback: Dict[str, str]):
         """Update search state with new feedback"""
         guess_idx = guess.name

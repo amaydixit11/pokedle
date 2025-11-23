@@ -96,6 +96,7 @@ interface CompareResult {
 }
 
 const API_URL = "https://pokedle-gqv1.onrender.com";
+// const API_URL = "http://localhost:8000";
 
 export default function PokedleVisualizer() {
   const [config, setConfig] = useState<SolverConfig>({
@@ -1045,6 +1046,7 @@ export default function PokedleVisualizer() {
                     </div>
 
                     {/* Algorithm State */}
+                    {/* Algorithm State */}
                     {result.steps[currentStep]?.algorithm_state && (
                       <div className="p-4 bg-blue-50 rounded-lg border border-blue-200">
                         <p className="text-sm font-medium text-gray-700 mb-2">
@@ -1053,19 +1055,75 @@ export default function PokedleVisualizer() {
                         <div className="grid grid-cols-3 gap-3">
                           {Object.entries(
                             result.steps[currentStep].algorithm_state
-                          ).map(([key, value]) => (
-                            <div key={key}>
-                              <span className="text-xs text-gray-500">
-                                {key.replace(/_/g, " ")}:
-                              </span>
-                              <p className="text-sm font-bold text-gray-900">
-                                {typeof value === "number"
-                                  ? value.toFixed(2)
-                                  : String(value)}
-                              </p>
-                            </div>
-                          ))}
+                          ).map(([key, value]) => {
+                            // Skip rendering complex objects
+                            if (
+                              typeof value === "object" &&
+                              value !== null &&
+                              !Array.isArray(value)
+                            ) {
+                              return null;
+                            }
+
+                            // Skip arrays (like open_set_nodes)
+                            if (Array.isArray(value)) {
+                              return (
+                                <div key={key} className="col-span-3">
+                                  <span className="text-xs text-gray-500">
+                                    {key.replace(/_/g, " ")}:
+                                  </span>
+                                  <p className="text-sm font-bold text-gray-900">
+                                    {value.length} items
+                                  </p>
+                                </div>
+                              );
+                            }
+
+                            return (
+                              <div key={key}>
+                                <span className="text-xs text-gray-500">
+                                  {key.replace(/_/g, " ")}:
+                                </span>
+                                <p className="text-sm font-bold text-gray-900">
+                                  {typeof value === "number"
+                                    ? value.toFixed(2)
+                                    : String(value)}
+                                </p>
+                              </div>
+                            );
+                          })}
                         </div>
+
+                        {/* Show A* specific details */}
+                        {result.algorithm === "ASTAR" &&
+                          result.steps[currentStep].algorithm_state
+                            .current_node && (
+                            <div className="mt-3 pt-3 border-t border-blue-200">
+                              <p className="text-xs font-medium text-gray-600 mb-2">
+                                Current Path
+                              </p>
+                              <div className="flex flex-wrap gap-1">
+                                {result.steps[
+                                  currentStep
+                                ].algorithm_state.current_node.path?.map(
+                                  (idx: number, i: number) => (
+                                    <span
+                                      key={i}
+                                      className="px-2 py-1 bg-blue-100 text-blue-700 text-xs rounded"
+                                    >
+                                      #{idx}
+                                    </span>
+                                  )
+                                )}
+                                <span className="px-2 py-1 bg-blue-600 text-white text-xs rounded font-bold">
+                                  {
+                                    result.steps[currentStep].algorithm_state
+                                      .current_node.pokemon_name
+                                  }
+                                </span>
+                              </div>
+                            </div>
+                          )}
                       </div>
                     )}
 
